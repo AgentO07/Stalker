@@ -36,22 +36,28 @@
 
 
 stalker/
-│
-├── transcripts/          # Raw broker text files. (Input)
-├── structured/           # Step 1 outputs: JSON messages per file.
-├── preprocessed/         # Step 2 outputs: (optional) cleaned, tagged messages.
-├── llm_parsed/           # Step 3 outputs: each message now has LLM-structured trade dict.
-├── deduped_trades/       # Step 4: Unique, deduped trades for the day.
-├── dashboard/            # Step 5: Streamlit dashboard code, etc.
-│
-├── step1_starter.py
-├── step2_optional_preprocessing.py
-├── step3_llm_parser.py # additional LLM_Batching (not needed for now).py
-├── step4_duplication_removal.py
-├── dashboard_app.py      # (later)
-│
-├── README.md
-├── requirements.txt
+
+ transcripts/          # Raw broker text files. (Input)
+structured/           # Step 1 outputs: JSON messages per file.
+preprocessed/         # Step 2 outputs: (optional) cleaned, tagged messages.
+llm_parsed/           # Step 3 outputs: each message now has LLM-structured trade dict.
+deduped_trades/       # Step 4: Unique, deduped trades for the day.
+dashboard/            # Step 5: Streamlit dashboard code, etc.
+
+
+step1_starter.py
+
+step2_optional_preprocessing.py
+
+step3_llm_parser.py # additional LLM_Batching (not needed for now).py
+
+step4_duplication_removal.py
+
+dashboard_app.py      # (later)
+
+README.md
+
+requirements.txt
 
 
 

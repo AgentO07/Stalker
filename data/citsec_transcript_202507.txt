@@ -1,0 +1,2006 @@
+BRIAN CONNORS
+10:21:02 Large CVNA Risk Reversal in the Market --
+
+CVNA Sep 320/350 risky sold ( sold call ) 20,000x @$1.5 ( ref. 330.42)
+
+Customer likely initiating a hedge, collects $3mm in premium. The structure creates ~590k delta for sale.
+11:03:16 BAC -- Citadel Securities cust bought 5500 of the Jul 42 41 put spread for 19c outright
+
+Rolling up the 41 puts to the 42s
+11:27:02 China upside continues:
+
+ASHR -- bot 14,500 Oct 34 Calls for .12
+
+ASHR -- bot 13,650 Oct 35 Calls for .09
+11:34:31 RKT - Upside in the mkt..
+
+The August 12p was sold 2500x to buy the 16/18 call spread 10,000x - they paid $225k on the 1x4 package (ref 13.85).
+
+High Short interest name (42% of the float) and August will capture the next round of earnings.
+12:35:32 VDA -- Epic bullish bet out to December:
+
+20,000x NVDA Dec 200/220 call spread was bot for $1.79 to open (ref. 144.46)
+
+Cust spent $3.6mm for this 7 delta call spread that breaks even up nearly 40% from current spot. Net pays 10x max up at 220, 44% higher than NVDA's current ATH (153.13)
+12:40:54 FXI Downside --  Jan 29 puts have been bot up to $0.48  17,500x (ref. 37.27)
+
+On a 1 month lookback FXI (+3.43%) has significantly outperformed ASHR (-0.29%) AND KWEB (+0.26%), customer playing for reversion with these 11 delta puts that b/e -23% by January.
+12:49:03 AAPL -- Citadel Securities cust does the following (ref. 198.76):
+bot 8,000 Jun 205 call for $0.985 to open
+sold 4,000 Jun 210 call at $0.32 to open
+Breakeven: +4% ($206.65), +7.3% ($213.35)
+
+Paying 1.65 on the 2x1
+$ Delta: $28.4M to buy
+12:53:11 TSLA -- Citadel Securities cust bot 2,800 Jul 300 put for $13.90 to open (ref. 323.68)
+Breakeven: -11.6% ($286.1)
+Premium paid: $3.9M
+Delta: -31%
+$ Delta: $27.8M for sale
+$ Vega: $98.6K
+Notional (Spot): $90.6M
+13:06:08 LARGE 0DTE DOWNSIDE GOING THORUGH HERE
+
+QQQ -- Citadel Securities cust bot 15,000 Jun12 529 put for $0.265 to open (ref. 533.28)
+
+Breakeven: -0.9% ($528.74)
+Premium paid: $393.9K
+13:59:58 EM Upside -- With EEM +2.2% roughly in the past week as China/US negotiations happen and the Jul 8 the deadline in mind for any further tariff negotiations, customers in the market buying short term upside across the board in emerging markets.
+
+Jul 48.5 calls 22k for $0.44
+Jun 45 calls 10k for $2.90
+Jul25 47 7.5k for $1.22
+Jun25 47 calls 24k for $0.85
+Friday, June 13, 2025
+ALLIE BECHER
+07:52:47 Retail Detail - Daily Update for 6/13/25
+
+Overall Options Volume Percentile (1Y): 39%
+Options Volume vs 12m ADV: 0.95x
+Overall C/P Direction Ratio: 4% better to buy
+
+New names to Top 20 single stocks: ORCL, BA, MSFT, AMD, APLD
+Names out of Top 20 single stocks: QUBT, RGTI, META, NVTS, CRWV
+Top 20 Most Bullish: GME, BA
+Top 20 Most Bearish: AVGO, MSFT
+
+Top Jumps in Single Stock Volume (vs 3m ADV): ORCL, RH, ADBE, MOS, B
+Top Jumps Most Bullish:	JOBY, MOS
+Top Jumps Most Bearish: B, PEP
+09:00:16 Risk off into the opening bell and all about the Israel strike on Iran today -- Following the initial attacks yday at 7:30 pm, a second + third round commenced soon after and Netanyahu said Israel would take "as many days as needed" to clear the threat. Iran stated that it would respond harshly against Israel and Trump tweeted early this morning to push Iran back to the negotiating table, though Iran rejected the talk previously scheduled for this Sunday.
+
+Our Macro Vol Analyst team is surprised by the fade in oil and the muted reaction in rates, given this was confirmed for targeting Iranian nuclear facilities with the stated goal of destroying Iranian nuclear progress -- A potential explanation would be the lack of immediate forceful response from Iran + Trump offering a potential offramp by emphasizing potential for talks. Given the expected longer-term campaign by Israel, we still think there's meaningful tail risk for further escalation....
+BRIAN CONNORS
+09:44:35 NVDA -- Citadel Securities cust bot 5,000 Jun '26 150/200 call spread for $14.61 to open (ref. 142.97)
+Breakeven: +15.1% ($164.61)
+Premium paid: $7.3M
+Delta: 26%
+$ Delta: $18.8M to buy
+$ Vega: $21.9K
+Max Net Payout: 2.4x
+10:12:49 USO -- Citadel Securities cust does the following (ref. 80.02):
+bot 4,300 Aug 77 put for $4.35 to open
+sold 4,300 Aug 71 put at $1.90 to open
+sold 4,300 Aug 90 call at $3.10 to open
+Premium collected: $279.5K
+Delta: -48%
+$ Delta: $16.5M for sale
+$ Vega: $-39.9K
+10:37:53  Crypto Hedges --  IBIT Jun 57 puts bot up to $0.45 5,000x ( ref. 59.3)
+
+22 Delta puts b/e -4.6% from current spot
+11:03:54 Chunky GLD going through
+
+GLD Sold 103k of the Jun 315 calls closing
+Sold 26k of the Jun 330 calls closing
+BOUGHT 128k of the Jun 320 calls opening
+
+collected 17.5 mill with 500mm of delta to sell off of that
+12:22:04 SLV -- Oct 34.5/42 Call Spread was bot 20,000x for $1.24 to open (ref 32.88)
+
+Flagged SLV a couple days ago as it briefly surged ahead of GLD as the 2025 outperformer -- That move has since been retraced as GLD has rallied +3.3% WTD vs SLV +0.6%.
+
+Renewed interest in SLV upside in the market today as the precious metals laggard. This large Oct call spread has 31 delta, breaks even +8.7% with 5x net max payout on another 28%  rally (SLV +25% YTD already).
+14:15:57 EWZ -- Citadel Securities cust does the following (ref. 28.1):
+
+sold 12,000 Jul 28 call at $0.60 to close
+
+sold 10,000 Mar 21 put at $0.54 to open
+bot 10,000 Dec '26 32/38 call spread for $1.25 to open
+
+cust rolling out 1-month upside
+14:47:08 Airline Downside:
+UAL -- Citadel Securities cust bot 2,500 Jun 68 put for $0.57 to open (ref. 73.76)--More airlines downside bot here on the afternoon selloff. Breakeven -8.6% ($67.43)
+
+Airlines having a pretty brutal week given the BA tragedy + rising geopolitical tensions (JETS -5.8% WTD), the worst week since Liberation Day. These 35-delta puts break even down another 7.3% from current spot. July expiry captures earnings for sector heavyweights incl. DAL (7/11) and UAL (7/17).
+
+Other bearish airlines flow in the market today:
+* AAL -- 7,000x AAL Aug 10 puts were bot up to $0.65 (ref 10.57) // Now >10k of these on the tape
+* LUV -- 5,000x LUV Jul 30 puts were bot for $0.71 (vs 140k LUV $32.13)
+* JETS --15000x Jul 21 puts were bot up to $0.71 to open (ref 21.88)
+15:34:48 VIX -- Citadel Securities cust rolling hedge up & adding units (ref. 21.48):
+
+sold 2,300 Jun 20.5 call @ $1.79 to close
+bot 16,100 Jun 24/26 call spread for $0.26 to open
+15:50:26 Oil & Gas Upside -- One of the best performing industries today on Israel/Iran headline escalation, seeing custs play for continued rally in single stocks here over the next week. Two to note:
+
+FRO -- Citadel Securities cust bot 7,500 Jun 20 call for $0.34 to open (ref. 19.44)
+
+DHT -- Citadel Securities cust bot 10,000 Jun 13 call for $0.125 to open (ref. 12.08)
+
+Earlier, we did have another cust selling to close 15,000 FRO Jun 19 calls, monetizing in clips throughout the day.
+15:53:44 ETSY -- Citadel Securities cust does the following (ref. 55.08):
+
+bot 4,500 Jun 63 call for $0.20 to close
+sold 4,500 Jun 57 put at $2.49 to close
+sold 4,100 Jun 59 call at $0.235 to open
+bot 4,100 Jun 53 put for $0.46 to open
+
+Rolling a risky down (bp, sc)
+Monday, June 16, 2025
+ALLIE BECHER
+07:31:22 Retail Detail - Daily Update for 6/16/25
+
+Overall Options Volume Percentile (1Y): 97%
+Options Volume vs 12m ADV: 1.31x
+Overall C/P Direction Ratio: 6% better to buy
+
+New names to Top 20 single stocks: META, CRWV, GOOGL, ASTS
+Names out of Top 20 single stocks: UNH, APLD, AVGO, OKLO
+Top 20 Most Bullish: MARA, SOFI
+Top 20 Most Bearish: HOOD, ORCL
+
+Top Jumps in Single Stock Volume (vs 3m ADV): ORCL, UMAC, RH, UUUU, B
+Top Jumps Most Bullish:	UMAC, UUUU
+Top Jumps Most Bearish: APA, B
+BRIAN CONNORS
+08:27:20 What’s Next for the Middle East? Perspectives from Mike Pompeo (70th Sec State and 6th Director of the CIA).
+
+Join us for a timely conversation (Tomorrow 6/17 at 12:30 EST) discussing the impact of Israel’s military operation against Iran, as Secretary Pompeo shares his insights into what may happen next, the operation’s wider regional and geopolitical implications, and its effects on the markets, informed by his tenure as both America’s top spy and top diplomat.
+
+Details in inbox, there will not be a replay for this engagement.
+
+https://web.cvent.com/event/cbe2cb40-94fb-46fd-826d-b491558c9478/regProcessStep1
+ALLIE BECHER
+08:51:03 Vol update & recap of what we saw on Friday as options activity ran 23% higher than the YTD ADV, trading ~71mm ctx at the OCC + the 11th largest day of options trading of all time...
+
+(1) Vol Update -- Iran/Israel escalation driving a pretty meaningful jump higher in implieds on Friday, the largest 1d %spike in VIX since mid-April Liberation Day panic. SPY 1M (July exp) ATM IV peaked at ~18, but has already retraced much of the move on the recovery rally this morning as fear begins to dissipate. From the close on Friday, July ATM IV is -1.6 points in SPY (15.9 IV), -1.6 points in QQQ (18.7 IV), and -1.4 points in IWM (22.9 IV).
+
+(2) Retail Update -- Friday was the 6th-largest retail options volume day of the year with a 6% buy skew. Buying the dip/fading the news has been a good bet for retail, as 19 of the 20 most active single stocks from Friday are all trading higher this m...
+BRIAN CONNORS
+08:53:41 Vol update & recap of what we saw on Friday as options activity ran 23% higher than the YTD ADV, trading ~71mm ctx at the OCC + the 11th largest day of options trading of all time...
+
+(1) Vol Update -- Iran/Israel escalation driving a pretty meaningful jump higher in implieds on Friday, the largest 1d %spike in VIX since mid-April Liberation Day panic. SPY 1M (July exp) ATM IV peaked at ~18, but has already retraced much of the move on the recovery rally this morning as fear begins to dissipate. From the close on Friday, July ATM IV is -1.6 points in SPY (15.9 IV), -1.6 points in QQQ (18.7 IV), and -1.4 points in IWM (22.9 IV).
+
+(2) Retail Update -- Friday was the 6th-largest retail options volume day of the year with a 6% buy skew. Buying the dip/fading the news has been a good bet for retail, as 19 of the 20 most active single stocks from Friday are all trading higher this m...
+10:19:59 KWEB Upside  -- Citadel Securities cust bot 8,400 Jun27 36.5 call for $0.245 to open (ref. 34.9)
+
+22 delta calls breakeven +5.3% from current spot.
+10:20:40 We are active across the board today. General theme: Unwinding single stock “escalation” trades put on Friday and overwriting/rolling positions with the vol moves.  In addition to what we flagged earlier, a few things to note:
+
+-MPW -- Citadel Securities cust does the following (ref. 4.49):
+sold 10,000 Jun 4.5 put at $0.115 to close
+sold 7,500 Jul 5 put at $0.625 to close
+bot 17,500 Sep 4 put for $0.32 to open
+
+-SBUX -- Citadel Securities cust sold 10,800 Jul 110 call at $0.165 to open (ref. 94.08)
+Breakeven: +17.1% ($110.17)
+Premium collected: $178.7K
+
+-AMZN -- Citadel Securities cust sold 9,300 Jul 240 call at $0.41 to open (ref. 212.74)
+Breakeven: +13% ($240.41)...
+10:35:56 SATS -- Citadel Securities cust does the following:
+
+sold 5,200 Jun 20 call at $5.17 to close
+bot 5,200 Jul 30 call for $1.32 to open
+bot 309,200 shares for $25.09
+
+This cust bought the June 20 calls for ~$1.20 at the end of last week and rolling up and out this morning - monetizing and maintaining...
+
+SATS shares are up 48% today after news hit Friday afternoon that  President Trump has urged EchoStar Chairman Charlie Ergen and FCC Chairman Carr to reach a deal on EchoStar spectrum.
+
+10:42:54 EWY -- Citadel Securities cust bot 3,300 Oct 75 call for $2.03 to open (ref. 68.63)
+
+Continues theme of South Korea upside out to October that we noted last week. These calls break even +12.2% ($77.03)
+10:53:23 ARKK -- Citadel Securities cust does the following (ref. 65.22):
+sold 4,500 Jun 58 call at $7.43 to close
+bot 9,000 Jun 62 call for $3.55 to close
+bot 4,500 Jul 68 call for $2.10 to open
+sold 9,000 Jul 74 call at $0.67 to open
+
+Rolling up Jun 1x2 call spreads to Jul 1x2 call paid 193k
+11:01:32  EWY -- Citadel Securities cust bot 11,600 Oct 80 call for $0.89 to open (ref. 68.52)
+Breakeven: +18.1% ($80.89)
+Premium paid: $1M
+11:08:23 Geopolitical de-escalation an active theme this morning as custs add energy/oil & gas downside and throw in the towel on upside bets from last week. Notable trades so far:
+
+* OXY -- Jul 40 put bot 12,000x for $0.34 to open (ref 45.37)
+* FRO -- Citadel Securities cust sold 7,500 Jun 20 call at $0.22 to close (tied vs $19.44)
+* CVX -- Dec 110 put bot 5,000x in clips electronically up to $1.62
+
+* XLE -- Jul 75 put bot 15,000x up to $0.21 to open (ref 87.44)
+* XLE -- Sep 75/68 put spread bot 12,000x for $0.52 (tied vs. 87.65)
+* USO -- Citadel Securities cust sold 1,000 Jul 89 call to buy the Jul 76/69 1x1.3 put spread for ~$100k (ref 77.2)
+13:11:59 URNM -- Citadel Securities cust bot 4,500 Jul 55 call for $0.45 to open (ref. 47.32)
+
+Breakeven: +17.2% ($55.45)
+Premium paid: $202.5K
+13:44:51 ADM Call Buying Surge -- So far today option volume is already 7.8x the 20d avg and heavily skewed to calls, some of the biggest blocks in the market have been
+
+Sep25 55.0 calls  5060x for up to $2.35
+Sep25 52.5 calls  2160x  for up to  $3.60
+Jul25 60.0 calls  2030x for up to  $0.24
+Jul25 57.5 calls 1365x for up to $0.35
+Jul25 55.0 4322x for up to  $1.05
+
+Retail was also pretty active in ADM on Friday, volume reached the 99%ile and also skewed to calls (traded 14.8 calls for every 1 put) SI as % of float 2.36%
+13:45:42 EEM – Citadel Securities customer bot 50,000 Jul 46.5 45 put spread for 24.5c vs. 800,000 shares for $47.36
+
+First meaningful hedge we’ve seen (though not in DM)
+14:46:46 HEDGING! - Customer putting on some hedges ahead of this week's busy econ-calendar. Playing for roughly ~2% down move by Friday/Monday, spent ~2mm in premo.
+
+SPY -- Citadel Securities cust bot 3,800 Jun23 591 put for $1.78 to open (ref. 602.37)
+
+SPY -- Citadel Securities cust bot 5,100 Jun 591 put for $1.35 to open (ref. 602.3)
+
+SPY -- Citadel Securities cust bot 3,800 Jun23 591 put for $1.78 to open (ref. 602.37)
+15:31:37 1.5 year RIGHT TAIL Hedge:
+
+SPX -- Citadel Securities cust bot 6,000 Dec '26 9000/10000 call spread for $3.00 to open (ref. 6325.33)
+
+Breakeven: +42.3%
+Max payout 330x
+
+Cust has 12,000x of these now in for 3.8mm premium spend
+15:53:24 JETS -- More airlines downside being bought:
+
+Citadel Securities cust bot 2,000 Jul 18/21 put spread for $0.40 to open (ref. 22.3)
+
+Customer fading today's rally with this 22 delta structure that  breakeven -7.6% and offers a 6.5x max net payout. July expiry captures earnings for sector heavyweights incl. DAL (7/11) and UAL (7/17).
+16:00:54  EWZ Upside into the bell -- Citadel Securities cust bot 8,500 Jun 29.5 call for $0.06 to open
+
+b/e +4.5% by Friday
+Tuesday, June 17, 2025
+ALLIE BECHER
+07:38:30 Retail Detail - Daily Update for 6/17/25
+
+Overall Options Volume Percentile (1Y): 51%
+Options Volume vs 12m ADV: 0.99x
+Overall C/P Direction Ratio: 6% better for sale
+
+New names to Top 20 single stocks: QUBT, HIMS, COIN, BBAI
+Names out of Top 20 single stocks: MSFT, GOOGL, BA, ASTS
+Top 20 Most Bullish: META, MSTR
+Top 20 Most Bearish: COIN, SOFI
+
+Top Jumps in Single Stock Volume (vs 3m ADV): LEN, ADM, SRPT, X, NNE
+Top Jumps Most Bullish:	ALT, X
+Top Jumps Most Bearish: EH, UUUU
+07:42:13 ** UPCOMING CALL TODAY @ 12:30 ** What’s Next for the Middle East? Perspectives from Mike Pompeo (70th Sec State and 6th Director of the CIA).
+
+Join us for a timely conversation (Today, 6/17 at 12:30 EST) discussing the impact of Israel’s military operation against Iran, as Secretary Pompeo shares his insights into what may happen next, the operation’s wider regional and geopolitical implications, and its effects on the markets, informed by his tenure as both America’s top spy and top diplomat.
+
+https://web.cvent.com/event/cbe2cb40-94fb-46fd-826d-b491558c9478/regProcessStep1
+09:52:54 ETSY - Super aggressive short-dated upside...
+
+The Friday 59 calls have been lfited nearly 20k already in the first 20 minutes of the day. All trading electroincally and all opening..
+
+Annual shareholder meeting this morning.
+10:20:54 Solar Selloff -- RUN, SEDG, ENPH, FSLR down big after bill was released to end tax credits for wind and solar. Institutional block options flow out in the first ~45 mins has notably bearish skew, net sellers of calls and buyers of puts. Some of the biggest trades:
+
+* RUN Aug 9 calls sold 5,000x at $0.42 (ref 5.50)
+* RUN Sep 10 calls sold 5,000x down to $0.41 (ref 5.65)
+* FSLR Jul 185 calls look sold 7,500x @ $1.90 (ref 143.41)
+* ENPH Jan 45 calls sold 5,500x down to $4.10 (ref 34.08)
+* ENPH -- Citadel Securities cust rolling down puts: sold 6,000 Jun 40 put at $6.45 to close // bot 4,000 Jun 32 put for $0.745 to open (ref. 34.32)
+
+Retail options traders likely to step in to tactically buy the dip/fade the move -- Clean energy has been a major theme for activity on our platfo...
+10:59:20 GE -- Citadel Securities cust bot 10,000 Jul11 265 call for $1.11 to open (ref. 235.3)
+
+Breakeven: +13.1% ($266.11)
+Premium paid: $1.1M
+Delta: 9%
+$ Delta: $22.1M to buy
+
+Playing for a reschedule of Investor Day which was supposed to be today. Think will be prior to earnings on 7/22.
+12:38:30 Solar short-term puts for sale with the space crushed following news that the US Senate supported ending wind, solar tax credits. Shift from this morning's flow:
+
+RUN -- Citadel Securities cust sold 15,100 Jun27 4 put at $0.08 to open (ref. 5.72)
+
+ENPH -- Citadel Securities cust sold 5,100 Jun27 26 put at $0.15 to open (ref. 34.76)
+
+SEDG - In the mkt the June 27th 11 puts were sold at .15 5,700x (ref 15.84).
+
+All sales opening and likely underwriting short stock positions...
+13:00:46 EEM -- Citadel Securities cust bot 70,000 Jun27th 46.5/44.5 put spread for $0.25 to open (tied vs $46.90)
+
+Second large EM hedge we have seen here this week. Yday, Citadel Securities cust bot 50,000 Jul 46.5/45 put spread for $0.245 to open (tied vs. $47.36)
+13:17:51 VIX -- Citadel Securities cust bot 12,700 Jun 24 call for $0.11 to open (ref. 20.18)
+
+Trade is opening and expire at the open tomorrow morning - hedging for escalation in Middle East overnight.
+13:50:03 VIX overnight escalation hedges -- Tomorrow VIX call buyer (deets above) kicking off a wave of VIX Jun call/call spread buying here as uncertainty remains re: US entering Iran/Israel conflict. In the last few mins:
+
+* VIX -- Citadel Securities cust bot 3,000 Jun 22.5/23.5 call spread for $0.09 to open (ref. 20.62)
+* VIX -- Citadel Securities cust bot 2,000 Jun 24/27 call spread for $0.07 to open (ref. 20.5)
+* VIX -- Citadel Securities cust bot 1,000 Jun 24 call for $0.13 to open (ref. 20.48)
+* VIX -- Citadel Securities cust bot 1,000 Jun 22.5/23.5 call spread for $0.08 to open (ref. 20.68)
+
+All of these VIX options are cash settled to the opening print tomorrow morning.
+
+NOTE: Hedge OI (total open interest across SPY/QQQ/IWM/SPX Puts + VIX Calls) is now at the hi...
+14:03:09 AAL -- Short-term tail hedging for a "pause in travel" type trade...
+
+The AAL Friday 9.5 puts have traded for .01 25,000x today (ref 10.62)
+14:04:56 VIX -- Citadel Securities cust bot 18,800 Jun 23.5/24.5 call spread for $0.08 to open (ref. 21.31)
+
+More overnight escalation hedges...
+14:27:27 NVDA Downside -- Citadel Securities cust just bot 10,000 Oct 130 put for $7.40 to open (ref. 144.36)
+
+NVDA has rallied ~33% since the start of May, these 28 delta puts break even down 15.1% at levels from 5/12.
+14:30:08 AAL -- Following that ultra-tail hedge bought in the market earlier this afternoon, Citadel Securities cust just bot 35,100 AAL Jun 9.5 put for $0.03 to open (ref. 10.62)
+Wednesday, June 18, 2025
+BRIAN CONNORS
+08:21:40 Volatility Vision -- We just sent our our weekly email highlighting some of the most interesting volatility dynamics across the current equities landscape. Key takeaways:
+
+1) USO: USO rallied another 4.72% yesterday thanks in large part to growing speculation of the US’ involvement in the war between Israel and Iran. The latest bout of tension was spurred by Trump’s meeting with his national security team yesterday afternoon (ultimately there was no statement/press release). Coincident with the rally yesterday, near term implied vol caught a significant bid and skew sold off markedly. For example, 1-month implied vol and normalized skew are trading at their highest and lowest respective levels over the past year (4.5 and 2.3 standard deviation moves), indicative of expectations for further realized volatility and demand for upside.
+
+2) Mega Cap Tech Skew: In a similar vein...
+08:21:41 
+image.png 559 KB 
+09:24:17 VIX indication is around 20.81 now with 8 million vega paired off
+09:52:20 Seeing demand for Friday upside to start the day + the large SPX Call spread buyer is back
+
+GDS -- Citadel Securities cust bot 2,300 Jun 28 call for $0.39 to open (ref. 27.21)
+     Breakeven: +4.3% ($28.39)
+
+NTNX -- Citadel Securities cust bot 1,000 Jun 75 call for $0.40 to open (ref. 73.26)
+     Breakeven: +2.9% ($75.4)
+
+SPX -- Citadel Securities cust bot 2,000 Dec '26 9000/10000 call spread for $2.85 to open (ref. 6288.14)- MAKES 18k….
+     Breakeven: +43.2% ($9002.85)
+10:21:25 HYG - Hedging begins...
+
+Citadel Securities customer buys the August 78/77/76 put fly for .06 50,000 x 100,000 x 50,000 (ref 79.53).
+11:35:31 VIX -- Citadel Securities cust bot 10,000 Jul 17/19 1x2 put spread for $0.44 to open (ref. 20.93)
+
+Playing for vol normalization, short both vol and vol of vol.  What a difference 24hrs makes
+13:04:46 Light on the options front, spot grind higher, general vol compression (and then there's ARKK...)
+
+Market-wide volumes running ~10% below avg as we head into FOMC at 2pm + Juneteenth holiday tomorrow. Notable pockets of activity point to one general theme: In spite of growing potential list of negatives to rattle equities, the market shakes it off.
+
+(1) Short-term vol normalization -- A MAJOR shift from sentiment in the afternoon yday (when we had a ton of 1day panic hedging), seeing custs here today playing for a contraction in both vol and vol of vol. Trade to note: Citadel Securities cust bot 10,000 VIX Jul 17/19 1x2 put spread for $0.44 to open (ref. 20.93)
+
+(2) Big SPX bull is back -- Citadel Securities cust bot another 4,000 SPX Dec '26 9000/10000 call spread in two clips. Today's trades makes nearly 20,000x accumulated in the last week, right tail pla...
+14:00:33 Financials upside ahead of the Fed
+
+C 11Jul 82 85 call spread- away bought  30k for 53c outright opening
+
+1:4.66x NET payout
+14:01:50 FOMC first take:
+
+2 cuts in 25
+
+uncertainty diminished is bullish
+
+core PCE is in-line, U-rate a touch higher
+
+buy 'em {US}
+14:13:41 UPST- 50k calls on the tape vs. 10d average TOTAL volume 37.5k contracts
+
+Stocks up 9.3% so tracks
+
+Lines to watch:
+Friday 55s- 6k
+Jul 60s- 5.4k
+Jun 60s-  4.6k
+
+Only notable trade : UPST jun 47-55 risk reversal (bc, sold put) and jun27th 51-62 rr (sc, bought put) traded 2000x for 2.60 as a package
+14:31:13 FOMC Thoughts from Grant Wilder:
+
+Today we learned that there is still a very even split between two teams on the committee: one that thinks the FOMC should hold rates into stagflationary conditions (more time to assess) and the other that thinks they should gently ease into it (likely quarterly pace) over the next several meetings.
+
+I think the market will trust Powell to choose the winner between these teams given his effective control over the committee so far. My best guess at this point is he cares about preserving the institution through this bout of political pressure. That means talking a lot about data dependence and willingness to go in any direction as the data evolves. At the end of the day, I think the market will take that message as dovish given the widespread consensus that data is slowing.
+14:42:50 CRCL -- Citadel Securities cust bot 1,300 Jul3 160 put for $10.25 to open (ref. 190.23)
+
+Crypto-focused cust fading the nearly ~30% rally. These puts break even down -21.3% ($149.75) at levels from this morning.
+
+Second hedger of the day here, as another Citadel Securities cust bot 1,900 Jul 85 put for $1.09 to open (ref. 179.32) about an hour ago.
+
+Highlighted earlier this morning that CRCL a key driver of the ARKK outperformance/"Spot up + Vol up" dynamics today.
+15:00:55  More airline downside, this time all of the airlines:
+
+JETS -- Citadel Securities cust bot 5,600 Jun27 20 put for $0.18 to open (ref. 21.64)
+Breakeven: -8.4% ($19.82)
+Premium paid: $100.8K
+15:12:26 🇺🇸 Right tail bet grows!🇺🇸
+
+SPX -- on the day Citadel Securities cust bot 6,000 Dec'26 9000/10000 call spread for $2.825 to open (ref. 6268.34)
+
+Cust has 22,000x of these now ~$3.00 average in for $6.6mm premium
+
+Breakeven: +43.6%
+Max Net Payout: 356.1x +59%
+
+Making certain vol assumptions here is the value of this call spread based on the following spot moves:
+
+On 12/31/25:
+If SPX +25% = ~$39
+If SPX +35%= ~$184
+If SPX +45% = ~$400
+...
+Friday, June 20, 2025
+BRIAN CONNORS
+09:11:55  Retail Detail - Daily Update for 6/20/25
+
+Overall Options Volume Percentile (1Y): 37%
+Options Volume vs 12m ADV: 0.94x
+Overall C/P Direction Ratio: 2% better for sale
+
+New names to Top 20 single stocks: COIN, OSCR, MRVL, ASTS, HIMS
+Names out of Top 20 single stocks: ORCL, BBAI, RUN, APPS, RDDT
+Top 20 Most Bullish: MARA, AMD
+Top 20 Most Bearish: SOFI, HOOD
+
+Top Jumps in Single Stock Volume (vs 3m ADV): OSCR, APPS, MRVL, TMC, COIN
+Top Jumps Most Bullish: V, OXY
+Top Jumps Most Bearish: UPST, SOFI
+11:18:58 EEM Short Dated Hedge -- Citadel Securities cust does the following (ref. 46.43):
+
+bot 17,500 Jun27th 46.5 put for $0.40 to open
+bot 820,200 shares for $46.49
+13:23:41  KWEB- Citadel Securities customer bought 14k of the Jul 32 35 strangle for 90c
+15:52:26 Citadel Securities CUST BUYING TODAY UPSIDE in mega cap tmt with 10m left
+
+GOOG -- Citadel Securities cust bot 12,500 Jun 170 call for $0.04 to open (ref. 168.25)
+   Breakeven: +1.1% ($170.04)
+
+AAPL -- Citadel Securities cust bot 1,900 Jun 200 call for $0.28 to open (ref. 200.03)
+   Breakeven: +0.1% ($200.28)
+
+META -- Citadel Securities cust bot 5,000 Jun 687.5 call for $0.10 to open (ref. 681.26)
+   Breakeven: +0.9% ($687.6)
+
+AMZN -- Citadel Securities cust bot 1,500 Jun 210 call for $0.30 to open (ref. 209.94)
+   Breakeven: +0.2% ($210.3)
+Monday, June 23, 2025
+ALLIE BECHER
+07:47:45 Retail Detail - Daily Update for 6/23/25
+
+Overall Options Volume Percentile (1Y): 90%
+Options Volume vs 12m ADV: 1.21x
+Overall C/P Direction Ratio: 7% better to buy
+
+New names to Top 20 single stocks: GOOGL, GOOG
+Names out of Top 20 single stocks: MRVL, ASTS
+Top 20 Most Bullish: GOOGL, AMZN
+Top 20 Most Bearish: HIMS, SMCI
+
+Top Jumps in Single Stock Volume (vs 3m ADV): INVZ, ZETA, ACN, OSCR, KR
+Top Jumps Most Bullish:	ZETA, B
+Top Jumps Most Bearish: ALT, MRVL
+08:39:55 Expiry "weak" trend holds + history tells us post-expiry positivity lies ahead:
+
+Last week, SPY fell -0.5% with the lows made on Friday afternoon. This price action continues a 4+ year streak where equities see statistically significant weakness during the week of serial monthly expiry.
+
+Since Jan 2021, 34 of the 54 expiries (63% of the time) had negative SPY returns with an average performance of -0.3%. On the negative weeks, the lows come on Friday 68% of the time, speaking to expiry-related dynamics at play in the market.
+
+Expiry "weak" has historically presented a great opportunity to buy the dip -- The week AFTER serial monthly expiry, SPY is +0.7% on average and positive 66% of the time. Particularly following the expiry weeks where SPY falls, it rallies +0.8% on average by the following Friday.
+BRIAN CONNORS
+09:43:14  PEP -- Citadel Securities cust bot 10,000 Jul 120/125 1x2 put spread for $0.20 to open (ref. 129.14)
+
+Breakeven: -3.4% ($124.8), -10.8% ($115.2)
+Premium paid: $200K
+
+Catches earnings on the 17th with options implying a 3.24% move vs. 8qtr avg 2.79%, max 4.89%, min 0.22%.  In Friday’s report with elevated upside if you want to overwrite (fyi)
+09:43:40 SPY -- TODAY downside being scooped to start the week:
+
+Citadel Securities cust bot 10,000 TODAY 588 put for $0.16 to open (ref. 595.55)
+
+Breakeven down -1.3% ($587.84) on these 7 delta puts.
+09:50:00 Energy downside/normalization trade here on the back of Trump tweet:
+
+OXY Aug 42.5/35 ps paper bot $.96 5,000x
+
+@realDonaldTrump
+EVERYONE, KEEP OIL PRICES DOWN. I’M WATCHING! YOU’RE PLAYING RIGHT INTO THE HANDS OF THE ENEMY. DON’T DO IT!
+09:59:45 Seeing vol seller in consumer space this AM:
+LULU -- Citadel Securities cust sold 1,000 Jun27 215 put at $1.65 to open (ref. 221.77)
+Breakeven: -3.8% ($213.35)
+Premium collected: $165K
+
+VFC -- Citadel Securities cust sold 13,600 Jul 10 put at $0.22 to open (ref. 11.39)
+
+Breakeven: -14.1% ($9.78)
+Premium collected: $299.2K
+10:00:41 Semi's Hedge:
+SMH -- Citadel Securities cust bot 17,300 Jun27 250 put for $1.16 to open (ref. 261.2)
+
+Breakeven: -4.7% ($248.84)
+Premium paid: $2M
+
+**MU earnings this week
+10:15:17 Crypto Hedge Monetization:
+MSTR -- Citadel Securities cust sold 3,300 Jun27 365 put at $8.07 to close (ref. 364.59)
+Breakeven: -2.1% ($356.93)
+Premium collected: $2.7M
+Delta: 49%
+$ Delta: $59.3M to buy
+
+cust orignally paid 7.5 for these last week
+10:28:44 AAL -- Citadel Securities cust sold 14,400 Dec '27 5 put at $0.59 to close (ref. 10.58)
+10:42:30  TSLA -- Citadel Securities cust does the following (ref. 352.28):
+
+bot 4,000 Jun27 337.5 call for $19.02 to close
+sold 4,000 Jun27 362.5 call at $5.81 to close
+sold 4,000 Jun27 370 call at $4.00 to open
+bot 4,000 Jun27 385 call for $1.72 to open
+
+Rolling up short call spreads paying 4.4m in premium and kicking off $34.7M to buy
+11:10:09  SPX Sep 5700/5900 ps IB customer seller 6,000x at $43.00 LIVE (ref 6042)
+
+On June 11th this cust bought 12,000x for $40.25 average ~6050 ref. He is selling half his position here
+11:24:21 CRWV -- Citadel Securities cust does the following (ref. 179.64):
+bot 3,000 Jul 110 put for $1.28 to open
+sold 2,500 Jul 100 put at $0.62 to open
+sold 1,600 Jul 90 put at $0.31 to open
+bot 1,200 Jul 80 put for $0.26 to open
+Premium paid: $210K
+12:19:12 EEM Hedging Continues -- EEM Jun27 46 puts bot for $0.19 35,000x (vs 1.085mm shares for 46.41)
+12:38:09 EXPLOSIONS HEARD OVER QATAR CAPITAL DOHA - REUTERS WITNESS
+13:02:39 Call tomorrow 10:30am ET - The Next Move: Strategic Insights with Admiral McRaven (registration link below, no replay)
+
+Join us for a timely conversation with Admiral William H. McRaven, retired U.S. Navy four-star admiral and 9th commander of U.S. Special Operations Command, on the implications of recent U.S. military action against Iran. Following the U.S. strike against Iran’s nuclear weapons program, Admiral McRaven will provide his perspective on Iran’s likely response, the broader regional and geopolitical consequences, and the potential impact on global markets.
+
+Admiral McRaven’s extensive experience as a Navy SEAL and his leadership in historic operations—including the capture of Saddam Hussein, the rescue of Captain Phillips, and the raid that killed al-Qaeda leader Osama bin Laden—make him uniquely qualified to assess the implications of this military operati...
+14:54:25 Cust here rolling a credit hedge out and up:
+
+HYG -- Citadel Securities cust does the following (ref. 79.91):
+sold 17,500 Jul 76 put at $0.06 to close
+bot 15,000 Sep 77 put for $0.425 to open
+15:50:12 NVDA Jul 165 calls- away sold 83,100 down to 25c outright
+
+Kicks off 36mm shares to hedge - 364k of vega
+15:50:45 CMG- rolling up a call spread and adding
+
+sold 8,900 Jun27 54 call at $0.49 to close
+bot 8,900 Jun27 57 call for $0.04 to close
+
+bot 9,800 Jun27 55 call for $0.23 to open
+
+bot 6,100 Jul3 55 call for $0.495 to open
+sold 6,100 Jul3 57 call at $0.13 to open
+Tuesday, June 24, 2025
+BRIAN CONNORS
+09:22:55 TODAY @10:30 am ET
+
+Join us for a timely conversation with Admiral William H. McRaven, retired U.S. Navy four-star admiral and 9th commander of U.S. Special Operations Command, on the implications of recent U.S. military action against Iran. Following the U.S. strike against Iran’s nuclear weapons program, Admiral McRaven will provide his perspective on Iran’s likely response, the broader regional and geopolitical consequences, and the potential impact on global markets.
+
+Admiral McRaven’s extensive experience as a Navy SEAL and his leadership in historic operations—including the capture of Saddam Hussein, the rescue of Captain Phillips, and the raid that killed al-Qaeda leader Osama bin Laden—make him uniquely qualified to assess the implications of this military operation. We look forward to his insights.
+...
+10:02:42  HYG we are starting to see more appetite for downside as stock moves higher:
+
+HYG -- bot 30,00 Jul 80/79 put spread for .27 (ref 80.04) // creates $92mm delta for sale
+
+HY credit is just 40bps short of 3-year highs...
+10:30:31 STARTING NOW
+
+Join us for a timely conversation with Admiral William H. McRaven, retired U.S. Navy four-star admiral and 9th commander of U.S. Special Operations Command, on the implications of recent U.S. military action against Iran. Following the U.S. strike against Iran’s nuclear weapons program, Admiral McRaven will provide his perspective on Iran’s likely response, the broader regional and geopolitical consequences, and the potential impact on global markets.
+
+Tuesday, June 24, 10:30am ET / 3:30pm London
+
+Register here for dial in details: https://cvent.me/kynGLo
+There will not be a replay so we hope you will join us live
+11:57:06 USO -- Citadel Securities cust unwinding a put spread collar:
+
+bot 4,300 Aug 90 call for $0.72 to close
+sold 4,300 Aug 77 put at $6.65 to close
+bot 4,300 Aug 71 put for $3.27 to close
+
+Nothing to see here.
+13:05:10 China Downside -- FXI Aug 36 puts bot for $0.81 9800x (ref. 37.015)
+
+b/e down 4.9% in the next two months.
+13:11:05 Massive crypto hedge:
+IBIT -- Citadel Securities cust bot 32,400 Jul3 58.5 put for $0.67 to open (ref. 60.31)
+Breakeven: -4.1% ($57.83)
+Premium paid: $2.2M
+Delta: -29%
+$ Delta: $55.9M for sale
+$ Vega: $112.8K
+Notional (Spot): $195.4M
+14:24:57 Outsized volume in UBER ahead of the mayoral primary:
+
+there are 263k calls on the tape vs. 10d average 59k and total OI 1.33mm
+
+Lines to watch:
+-Aug 100 calls- 31.2k on the tape – we had a buyer of 6500 adding leverage
+-Jul 100 calls- 21k on the tape with largest print 6480 (us, customer rolling up the Jul 90s as flagged earlier)
+- Jul 95 calls- 15.6k on the tape with largest print 2.55k
+- Aug 105 call- 14k on the tape with no print > 500
+-Friday 90 calls- 12k on the tape with largest print 426 options
+
+Call wings inverting making me like call spreads if you want leverage- Jul 95/105 for example
+15:03:02 KVUE upside trades here:
+
+-- Citadel Securities cust bot 15,500 Aug 22 call for $0.75 to open (ref. 21.22)
+Breakeven: +7.2% ($22.75)
+Premium paid: $1.2M
+Delta: 42%
+$ Delta: $13.9M to buy
+
+gets earnings on Aug 6th
+15:41:28 SOLAR - Covering short puts - active in SEDG, RUN, ENPH:
+
+RUN -- Citadel Securities cust bot 15,100 Jun27 4 put for $0.01 to close (ref. 7.29)
+
+ENPH -- Citadel Securities cust bot 5,100 Jun27 26 put for $0.025 to close (ref. 37.98)
+
+SEDG -- Citadel Securities cust bot 5,700 Jun27 11 put for $0.025 to close (ref. 18.99)
+
+I actually see this as more bullish than anything. Would imagine these short puts were an underwrite for short stock and with the squeeze today they might be covering stock and options...
+
+
+
+...
+Wednesday, June 25, 2025
+BRIAN CONNORS
+09:50:07 China Upside trading here:
+ASHR -- Citadel Securities cust bot 15,000 Jul 28.5 call for $0.195 to open (ref. 27.58)
+Breakeven: +4% ($28.69)
+Premium paid: $291K
+Delta: 25%
+10:17:28  More crypto downside trading:
+IBIT Jul 3rd 59.5p bot 7200x for .59
+11:55:32 PCT -- Citadel Securities cust does the following (ref. 13.61):
+
+sold 3,000 Jul 10 call to close
+bot 6,000 Aug 15-20 calls spread to open
+
+They collect 1.80 as a 1x2. Cust is essentially doing a stock replacement with these deep in the money July calls. Cutting a little delta with stock up nearly 150% in the past 2 months.
+
+Still remains very bullish.
+12:29:47 STT - July 110/115 calls spread was bought for .50 10,000x (ref 103.18).
+
+Stock breaking out to all-time high today and someone looking for further near-term convexity.
+
+Large contract size trade for the name and will capture earnings on 7/15.
+14:57:38 RDDT - Very large long-dated collar roll in the market - Looks like the following trades:
+
+*Sold Jan27 115 put 34,000x (listed)
+*Bought Jan27 220 call 34,000x (listed)
+*Sold Nov 16th, 2029 306 Euro call 34,000x (flex)
+*Bought Nov 16th, 2029 121 Euro put 34,000x (flex)
+
+They paid $1.75 34k
+
+Back on 11/22 we saw the Jan27 collar trade 60,000x. At the time we believed this was hedging exposure created from Advance Magazine Publisher credit facility - planned to borrow against equity position. (Bloomberg reported holder Advance Magazine Publishers was offering 7.8M shares for $145.38-$148.54). Advance was said to be buying deriviates that will allow it to maintain its ownership stake and create the credit facility.
+...
+15:23:48 HYG hedging
+HYG -- Citadel Securities cust bot 10,000 Aug 77/79 put spread for $0.23 to open (ref. 80.2)
+Breakeven: -1.8% ($78.77)
+Thursday, June 26, 2025
+BRIAN CONNORS
+08:56:09 Retail Detail - Daily Update for 6/26/25
+
+Overall Options Volume Percentile (1Y): 53%
+Options Volume vs 12m ADV: 1.00x
+Overall C/P Direction Ratio: 10% better to buy
+
+New names to Top 20 single stocks: SMCI, QS, MU, TIGR, GOOG
+Names out of Top 20 single stocks: UBER, MARA, AVGO, CCL, GME
+Top 20 Most Bullish: BBAI, TIGR
+Top 20 Most Bearish: GOOG, GOOGL
+
+Top Jumps in Single Stock Volume (vs 3m ADV): FDX, QS, TIGR, ZETA, BB
+Top Jumps Most Bullish: NU, PEP
+Top Jumps Most Bearish: QS, IREN
+09:20:44  Good Morning -- Some themes from the past few days worth highlighting
+
+(1) China/EEM Vol in Demand as China releases documentation outlining the use of credit policy to support/boost consumption, and geopolitics in the middle east become less uncertain
+
+Notably this week we saw:
+
+EEM Sep 48 calls bot for $1.64 18300x (ref 47.94)
+ASHR Citadel Securities cust bot 15,000 Jul 28.5 call for $0.195 to open (ref. 27.58)
+FXI Sep 40 straddle 20k bot 4.33 vs. 820k shares
+ASHR Sep 29 calls were bought for $0.49 35,000x
+
+and in the single name space we saw a large buyer of TIGR (Chinese fintech company) .
+
+Stock was up +22.4% yesterday, large cus...
+10:30:32 RUN -- Citadel Securities cust does the following:
+
+bot 30,000 Jul11 9 call for $0.765 to open
+sold 1,000,000 shares for $7.83
+
+Replacing shares ahead of Trump Budget Decision.
+10:31:16 VIX Upside getting bot here:
+
+VIX -- Citadel Securities cust bot 10,000 Aug 25/30 call spread for $0.475 to open (ref. 20.04)
+10:35:25 SPY Hedging -- Looks like rolling and adding hedges up and out (ref. 609.8)
+
+sold Sep 530 puts 15,000x
+bot  Oct 560 puts 20,000x
+
+paid $10.7mm in premium, creates $153mm delta for sale and kicks in $1.1mm vega to buy
+10:35:55 EEM upside theme continues:
+
+EEM -- Citadel Securities cust bot 22,200 Sep 50 call for $0.90 to open (ref. 48.23)
+Breakeven: +5.5% ($50.9)
+Premium paid: $2M
+Delta: 37%
+$ Delta: $39.9M to buy
+10:58:03 Crypto left side tails being bought here:
+
+IBIT -- Citadel Securities cust bot 5,000 Nov 35 put for $0.73 to open (ref. 61.11)
+
+IBIT -- Citadel Securities cust bot 5,000 Nov 30 put for $0.55 to open (ref. 61.22)
+11:07:37  BITQ --  Oct 15/11 put spread bot for $0.625 1200x
+
+More crypto downside trading. Max payout 5.4x back to levels were trading in early April.
+11:13:58 ARKK -- Citadel Securities cust does the following (ref. 70.67):
+
+sold 4,500 Jul 68/74 1x2 call spread to close
+bot 4,500 Jul 72/78 1x2 call spread to open
+
+collect $140k to roll up // these upside ratio call spreads make sense for a vol mitigated melt-up scenario. new structure is long delta and short vega at inception
+11:37:28 AI chunky upside via calendar call stupid (leveraging long):
+
+AI -- Citadel Securities cust bot 12,300 Aug 35 call for $0.225 to open (ref. 24.62)Breakeven: +43.1% ($35.23)
+
+AI -- Citadel Securities cust bot 18,100 Jul 30 call for $0.16 to open (ref. 24.69)Breakeven: +22.2% ($30.16)
+
+Package Premium paid : $560K
+$ Delta: $9.1M to buy
+12:12:59 MU short term overwrite:
+
+MU -- Citadel Securities cust sold 6,900 Jul 150 call at $0.32 to open (ref. 125.84)
+Breakeven: +19.4% ($150.32)
+Premium collected: $220.8K
+Delta: -6%
+12:30:44 C - Huge buyer of short-term upside.
+
+July 25th 90 calls were bought for up to .89 50,000x (ref 84.37).
+
+Few upcoming catalysts include CCAR tomorrow at 4:30, earnings 7/15 as well as all of the large cap banks prior to this expiry.
+
+One of the bigger bets we've seen in C in quite some time. This comes as C is approaching a multi-year high...
+12:55:47 More VIX call spreads:
+VIX Aug 25/30 call spread bot 66,000x for .48
+13:37:03  KWEB Upside -- Citadel Securities cust bot 2,000 Sep 29/37/43 call spread collar for $0.63 (ref. 34.4)
+13:57:34 QQQ Upside --  Jul 31st 585/595 call spread bot for $0.47 11,000x (ref. 544.87)
+
+b/e +7.3% move up by the end of July and offers a 20.3x max payout.
+15:09:51 NVDA cust here rolling up puts:
+
+NVDA -- Citadel Securities cust does the following (ref. 155.67):
+bot 25,800 Oct 145 put for $8.56 to open
+sold 21,500 Oct 130 put at $4.30 to close
+15:13:36 NEWS  *UBER IN TALKS WITH FOUNDER TO FUND SELF-DRIVING CAR DEAL: NYT
+15:21:59 CMG -- Citadel Securities cust rolling calls a week out and restriking (ref. 53.91):
+
+sold 18,400 Jun27 56 call at $0.04 to close
+bot 6,500 Jul3 55 call for $0.395 to open
+sold 6,500 Jul3 57 call at $0.03 to open
+
+paid $162k in premium
+15:45:42  PEP -- Citadel Securities cust bot 5,000 Jul 120/125 1x2 put spread for $0.25 to open (ref. 128.04)
+
+Adding to large downside bet makes 15k total. B/e -2.6% from current spot.
+15:52:18 *BESSENT ASKS CONGRESS TO CUT REVENGE TAX MEASURE FROM TAX BILL
+
+last leg higher
+Friday, June 27, 2025
+BRIAN CONNORS
+08:32:34 Volatility Vision -- We just sent our our weekly email highlighting some of the most interesting volatility dynamics across the current equities landscape. Key takeaways:
+
+1) PEP - Despite the relatively muted stock performance so far, we have seen more activity from institutions in PEP this week than any other over the past year. For context, it has been the 12th most active symbol on our desk (prior to this week, it was the 215th most active name over the past year). The most notable trade was a buyer of 15,000x total July 125/120 put spreads, the latest clip of which was traded yesterday 5000x.
+
+In tandem to this uptick in activity, PEP implied vol has increased significantly. 1- and 2-month ATM implied vol are currently trading in the 97th and 96th percentiles respectively, which translate to 2.2 and 1.81 standard deviation moves. Yesterday, ...
+08:32:37 
+image.png 559 KB 
+10:02:54 IBIT vs. MSTR - selling IBIT downside to fund MSTR puts..
+
+IBIT -- Citadel Securities cust sold 7,000 Jul25 58 put at $1.32 to open (ref. 60.57)
+
+MSTR -- Citadel Securities cust bot 1,000 Jul25 365 put for $9.21 to open (ref. 387.81)
+
+Color we have gotten is that there is much more BTC gamma in MSTR to the downside vs IBIT
+10:53:36 PTON -- Citadel Securities cust bot 9,600 Jul 7.5 call for $0.22 to open (ref. 6.81)
+Breakeven: +13.4% ($7.72)
+13:17:39 LARGE INDEDX HEDGE GOING UP AWAY
+
+QQQ DEC 515 470 put spread bought 120k for 7.76 vs 549.15
+
+Worth noting- we really have not/are not seeing demand for hedges in index space- have seen singles
+14:49:06 PCG -- Citadel Securities cust does the following (ref. 14.07):
+bot 15,000 Jul 14.5 call for $0.325 to open
+sold 15,000 Jul 13.5 put at $0.245 to open
+Premium paid: $121.4K
+Delta: 69%
+$ Delta: $14.6M to buy
+$ Vega: $1.6K
+Monday, June 30, 2025
+BRIAN CONNORS
+07:29:44 Retail Detail - Daily Update for 6/30/25
+
+Overall Options Volume Percentile (1Y): 98%
+Options Volume vs 12m ADV: 1.33x
+Overall C/P Direction Ratio: 6% better to buy
+
+New names to Top 20 single stocks: GME, MARA, GOOG
+Names out of Top 20 single stocks: QS, BBAI, MSFT
+Top 20 Most Bullish: PLTR, SMCI
+Top 20 Most Bearish: GOOGL, NKE
+
+Top Jumps in Single Stock Volume (vs 3m ADV): INMB, KTOS, CIFR, NKE, CORZ
+Top Jumps Most Bullish:	CIFR, PONY
+Top Jumps Most Bearish: NKE, FDX
+ALLIE BECHER
+09:17:33 Options volume surging with stocks at the highs + Retail leaning into the momo:
+
+Friday's close officially the highest ever for SPY, a massive 27% rally from the lowest tick on Apr 7th. Market-wide options volume was 31% more active than the 1Y avg with calls trading 1.5x for every 1 put and Retail traders seem to be a BIG contributor...
+
+Friday was the 9th-most active day of options trading by retail traders of all time, the biggest single day of trading since the Liberation Day peak and 33% higher than 1y avg. Some of the biggest spikes in market-wide activity also huge for retail: AMZN, MSTR, CRCL, COIN, SOFI, HIMS, CORZ, NVDA (just to name a few).
+
+Retail does not typically lean into outperformance like they did at the end of last week, this flow feels VERY SIMILAR to "meme mania" type of activity of 2021 -- Retail was 6% better to buy through ...
+BRIAN CONNORS
+09:50:16 More PCG upside continues:
+PCG -- Citadel Securities cust does the following (ref. 14.07):
+bot 7,500 Jul 14.5 call for $0.30 to open
+sold 7,500 Jul 13.5 put at $0.26 to open
+
+cust now owns ~22,500x of these, which is just over 20 bucks of dollar delta with stock here
+10:17:09 FEZ short dated upside -- Citadel Securities cust does the following (ref. 59.31):
+
+bot 5,000 Jul 61 call for $0.30 to open
+bot 5,000 Jul 61.5 call for $0.15 to open
+
+Likely a play for EU trade deal ahead of tariff deadline on Jul 9th
+11:34:42 SOFI Aug-Aug1st 16 put stupid bot 20,000x to open for 1.27
+
+
+Cust spent ~$2.5mm ($14.4mm delta)//these spreads likely capture earnings on on 08/01
+13:45:52 Did a quick scan of SPX top 150 to see what names are sitting in the bottom end of their 3y implied vol range for additional leverage or stock replacement
+
+Names to flag:
+-	Bottom 5th %-ile: ADSK, CAT, INTU, CCL, DIS, PANW, WBA, WDAY, ADBE
+-	5th- 10th %-ile: COIN, ADBE, PFE, MOS, NVDA, AMT, KMX, CRWD
+
+On the other side of the spectrum- names that look attractive for overwriting with price targets in mind:
+-	Top 95th %-ile: INVH, PEP, ENPH, UNH, CAG, TMO, DOW, FI, PM, REGN, STZ, DECK
+14:30:34 SPX Collar Trades: 30 Sep 4940/5850/6480 PS Collar bot 37,800x
+
+Paired with 17,800x today 5905 calls so that its delta neutral at inception
+
+Paid $497.374mm.
+15:40:43 We remain active in some of the squeezy names, notably just now:
+
+CMG -- Citadel Securities cust does the following (ref. 56.23):
+sold 15,000 Jul3 56 call at $0.72 to close
+bot 20,000 Jul3 58 call for $0.10 to close
+bot 5,400 Jul3 57 call for $0.30 to open
+bot 8,500 Jul11 58 call for $0.42 to open
+sold 8,500 Jul11 60 call at $0.12 to openPremium collected: $463K
+15:51:42 CMG -- cust is doubling down and adding to the same structure, roughly same size
+
+-- Citadel Securities cust does the following (ref. 56.13):
+sold 15,500 Jul3 56 call at $0.68 to close
+bot 20,500 Jul3 58 call for $0.10 to close
+bot 5,000 Jul3 57 call for $0.29 to open
+bot 8,300 Jul11 58 call for $0.44 to open
+sold 8,300 Jul11 60 call at $0.12 to open
+15:55:37 LVS -- Citadel Securities cust bot 12,800 Jul3 45 call for $0.235 to open (ref. 43.56)
+Breakeven: +3.8% ($45.23)
+Premium paid: $300.7K
+Delta: 21%
+Tuesday, July 1, 2025
+ALLIE BECHER
+07:23:08 Retail Detail - Daily Update for 7/1/25
+
+Overall Options Volume Percentile (1Y): 56%
+Options Volume vs 12m ADV: 1.01x
+Overall C/P Direction Ratio: 4% better to buy
+
+New names to Top 20 single stocks: BBAI, SOUN, PLUG, ORCL
+Names out of Top 20 single stocks: NKE, COIN, INTC, MU
+Top 20 Most Bullish: AMZN, GOOGL
+Top 20 Most Bearish: MARA, SMCI
+
+Top Jumps in Single Stock Volume (vs 3m ADV): VOR, INMB, GLXY, SG, CIFR
+Top Jumps Most Bullish:	NU, SG
+Top Jumps Most Bearish: CAVA, ONDS
+07:46:08 Retail's Big, Beautiful Bull Run -- Yesterday at Citadel Securities, retail options traders rounded out Q2 with another bullish day, 4% better to buy thru our C/P Direction Ratio. We have now entered the 10th consecutive week of bullish options flow, one of the longest streaks of bullish sentiment ever...
+
+There have only been 7 other times in our platform's history where retail had a bullish options skew for at least 9 straight weeks, and those instances tell us there could be more bullish retail participation + further equity rally in store.
+
+The average length of these historical bull runs is ~16 weeks (we are only in week 10) and in combination with generally light positioning + positive July seasonality (the best month for SPY in the last 20 years, +2.6% on avg) it is worth looking at further upside to lean into this momentum.
+BRIAN CONNORS
+09:53:10 SNAP -- Citadel Securities cust sold 30,000 Aug1 7 put at $0.185 to open (ref. 9.19)
+Breakeven: -25.9% ($6.82)
+Premium collected: $555K
+09:58:04  Semis flow  active right out of the gates -- monetizing and rolling
+
+MU -- Citadel Securities cust does the following (ref. 122.93):
+sold 2,000 Jul 130 call at $1.57 to close
+bot 2,000 Jul 140 call for $0.38 to close
+bot 2,000 Aug 125 call for $6.13 to open
+sold 2,000 Aug 135 call at $2.79 to open
+
+
+NVDA -- Citadel Securities cust does the following (ref. 156.23):
+sold 500 Jul 150 call at $8.89 to close
+bot 500 Jul 155 call for $5.53 to close
+sold 1,300 Sep 150 call at $16.70 to close
+bot 1,300 Sep 155 call for $13.86 to close
+
+SMH -- cust sold 1,800 Jul3 270/285 call spread at $7.75 to close
+09:59:31 VIX -- Citadel Securities cust bot 32,400 Sep 23 call for $2.27 to open (ref. 20.68)
+
+Breakeven: +22.2% ($25.27)
+Premium paid: $7.4M
+
+$1.6mm SPX vega purchased
+12:54:10 Homebuilders short interest fade--  The single stock "squeeziness" dynamics we observed back in may in popular retail names, is now making its way to sector ETFs. XHB and ITB for example today are both up ~5.5% ( XHB SI as % of float 66%)
+
+Cust spends just north of $500k across these three lines , fading todays large rally (both tickers up ~5.5%)
+
+ITB -- Citadel Securities cust Citadel Securities cust bot 5,000 Aug 87/90 1x1.1 puT ref. 98.86):
+
+ITB -- Citadel Securities cust bot 2,000 Aug 88/95 1x1.5 put spread for $2.34 to open (ref. 98.7)
+
+ITB -- Citadel Securities cust bot 1,000 Aug 88/95 1x1.5 put spread for $2.33 to open (ref. 98.36)
+13:37:51  Large VIX call spread getting bot:
+
+VIX sep 35-70 cs bot 33000x for .75
+14:26:03 Momentum rally to kick off 2H: Retail STILL leaning in vs Institutional custs fading the move...
+
+Big gains across industries today like Homebuilders (XHB +4.6%/ITB +4.6%), Retailers (XRT +3.2%), Regional Banks (KRE +3.4%) + IWM outperforming SPY/QQQ. These dynamics come on the heels of sustained bullish retail activity (see Big, Beautiful Bull Run note above ^^) and beginning of a seasonally positive time for equities in July.
+
+While there may be more room to run (each of these spaces still well off the 52wk highs), we are seeing a growing divergence between retail investors continuing to pile in and institutional investors fading the momentum.
+
+As of our mid-day run, retail is 10% better to buy thru our C/P Direction ratio (vs 2% buy skew overall in Jun), trading 1.9 calls for every 1 put...
+Wednesday, July 2, 2025
+BRIAN CONNORS
+07:31:50 Yday's momentum factor unwind to start Q3 drove a sharp rally in industries like homebuilders (XHB +4.2%) and regional banks (KRE +3.4%), a big outperformance for IWM vs SPY/QQQ, plus the largest single-day loss for MTUM since mid-May. It is a big shift from Q2 price action, which was hallmarked by mega-cap tech/semis/AI/momentum surging ahead (QQQ +18%/SMH +32%/MTUM +19% vs IWM +8% in Q2).
+
+An interesting takeaway from yday's options flow was that retail traders were undeterred by the shake-up, 8% better to buy through our C/P Direction Ratio and continuing a long bullish stretch of activity. Institutional investors, on the other hand, were fading the high fliers (ITB & XRT puts/put spread buying by Citadel Securities custs) and starting to add broad-market hedges in VIX (ie. Citadel Securities cust bot 32,400 VIX Sep 23 call).
+
+What to note from here: SPY is implying ...
+12:12:24  EWZ -- Citadel Securities cust does the following (ref. 28.82):
+sold 10,000 Jul 28 call at $1.07 to close
+sold 10,000 Mar 22 put at $0.42 to open
+bot 10,000 Dec '26 32 call for $2.99 to open
+sold 10,000 Dec '26 38 call at $1.54 to open
+Premium collected: $45K
+ALLIE BECHER
+14:18:53 Cheap Single Stock Vol into NFP -- Next round of payrolls data released tomorrow morning and current 1d implied moves across the board screening much lower that recent historical average.
+
+SPY: 0.7% implied move vs 1.5% absolute avg move on last 10 NFP
+QQQ: 0.8% implied move vs 1.8% absolute avg move on last 10 NFP
+IWM: 1.2% implied move vs 1.6% absolute avg move on last 10 NFP
+
+More interesting is how cheap many of the market's most active single stocks screen vs recent realized vol. Attached table shows some of the cheapest 1d IV opportunities in the single stock landscape -- All of these names have 1d IV in the 10th %ile (or lower) of the last 1Y.
+
+GME, DLTR, and INTC currently have the l...
+14:18:59 
+image.png 37 KB 
+15:47:08 Retailers (TGT/RH/HD) -- Tomorrow upside in demand in the last few mins, targeting a 2-3% rally higher in each by EOD tomorrow:
+
+* TGT -- Citadel Securities cust bot 4,700 Jul3 108 call for $0.21 to open (ref. 105.19)
+* RH -- Citadel Securities cust bot 1,300 Jul3 212.5 call for $0.79 to open (ref. 206.5)
+* HD -- Citadel Securities cust bot 5,700 Jul3 380 call for $0.245 to open (ref. 372.96)
+15:50:54 KRE -- More 1d upside getting added here for regional banks:
+
+Citadel Securities cust just bot 13,000 KRE Jul3 64 call for $0.08 to open (ref. 62.36)
+
+Breakeven on a +2.8% move ($64.08). KRE absolute avg move on the last 10 NFP days is  1.8%.
+Monday, July 7, 2025
+ALLIE BECHER
+07:18:00 Retail Detail - Daily Update for 7/7/25
+
+Overall Options Volume Percentile (1Y): 29%
+Options Volume vs 12m ADV: 0.92x
+Overall C/P Direction Ratio: 1% better to buy
+
+New names to Top 20 single stocks: MSFT, PFE, CRWV, GME
+Names out of Top 20 single stocks: OSCR, UNH, F, GOOG
+Top 20 Most Bullish: HOOD, MARA
+Top 20 Most Bearish: MSFT, INTC
+
+Top Jumps in Single Stock Volume (vs 3m ADV): CNC, DDOG, SBET, BTBT, CIFR
+Top Jumps Most Bullish:	CCL, CNC
+Top Jumps Most Bearish:  IREN, CAVA
+08:10:24 Retail's Big Bullish Streak -- A few minutes ago we sent out our monthly update for retail options trading at Citadel Securities, highlighting current trading dynamics as we are in the midst of one of the longest bullish streaks ever seen.
+
+There have only been 6 other times in our platform’s history with a bullish retail options skew of this duration, and those instances tell us that there could be more in store: These 6 previous streaks have an average duration of 18 weeks (we are currently "only" 10 weeks in).
+
+These ultra-bullish dynamics are likely bolstered by strong returns in retail's most active sectors/industries, driving a large net premium collection. TSLA, GME, HIMS, and QUBT remain some of the most interesting single-name stories across the board and we have noticed a broader pullback in index hedging (SPY/QQQ/IWM/SPX) as retail leans into the outperfo...
+BRIAN CONNORS
+10:15:14 More Demand for VIX Upside :
+
+VIX Oct 23 calls were bot for $2.89 19,000x
+
+in case missed on Thursday we flagged VIX Jul 21/30 cs bot 50,000x for $0.38.
+11:08:39 CMG flow so far today: -- Citadel Securities cust does the following (ref. 55.43):
+
+bot 9,800 Jul11 57/59 call spread for $0.21 to open (ref. 55.5)
+Breakeven: +3.1% ($57.21)
+Premium paid: $203.9K
+
+bot 11,100 Jul11 57 call for $0.25 to close
+sold 37,600 Jul11 59 call at $0.06 to close
+bot 26,500 Jul11 61 call for $0.035 to close
+11:13:33  Financials vol being sold :
+
+MS --  Jul 11th 135 puts sold @ $0.10 6000x (ref. 144.18)
+
+WFC --  Jul 11th 77 puts sold @$0.05 12,000x (ref. 83.41)
+11:22:53 JETS- seeing a call spread rolled…in and downsized
+
+JETS Aug 24 26 call spread sold 9400 vs. buying the Jul 24.5 25.5 call spread 5400x
+
+collected $550,600
+12:23:11 IBIT -- Citadel Securities cust does the following (ref. 61.57):
+sold 14,900 Aug29 67 call at $2.06 to open
+bot 14,900 Aug29 58 put for $2.08 to open
+Premium paid: $29.8K
+Delta: -65%
+12:51:13 Massive SPX dip buyer:
+
+SPX July 21st 6230 calls (51 delta) were bot electronically at ~12:35pm ET 5200x for up to 75.3 ref 6278.75
+
+This cut spent over $39mm in premo to get long the equiv of $1.55B of delta
+13:14:27 EWZ put spread collar trades in the market:
+
+Oct 28/25 put spreads vs 31 calls traded .06 25,000x ref 28.61
+
+cust bot put spread/sold call, which creates ~$40mm for sale
+14:30:07 CORZ -- Citadel Securities cust does the following (ref. 14.62):
+
+sold 20,000 Sep 13 put at $1.50 to open
+sold 20,000 Sep 17 call at $1.11 to open
+bot 20,000 Sep 23 call for $0.61 to open
+Premium collected: $4M
+Delta: 10%
+$ Delta: $3M to buy
+14:48:56 TACO TRADE
+
+SPXW -- Citadel Securities cust bot 1,000 Jul10 6265/6275 call spread for $3.00 to open (ref. 6216.72)
+
+Breakeven: +0.8% ($6268).  Just playing a snapback
+15:24:06 AMZN -- Upside buyer here ahead of Prime Day:
+
+Citadel Securities cust bot 2,000 AMZN Sep 240 call for $6.64 to open (ref 223.1)
+
+Adding these 35 delta calls with Prime Day kicking off tomorrow (runs 7/8-7/11). Break even on a +10.5% move higher over the next ~3m. Cust bot these on a sub-30 vol -- AMZN 3M 110% IV is in just the 16th %ile of the last 1Y.
+Tuesday, July 8, 2025
+BRIAN CONNORS
+09:35:46 CORZ -- Citadel Securities cust does the following (ref. 14.95):
+sold 5,000 Sep 13 put at $1.30 to open
+sold 5,000 Sep 17 call at $1.20 to open
+bot 5,000 Sep 23 call for $0.50 to open
+Premium collected: $1M.  Makes 25k over 2
+09:50:20 SOUN -- Citadel Securities cust does the following (ref. 12.92):
+sold 6,100 Jul 13 call at $0.89 to close
+bot 5,000 Jul 15 call for $0.40 to open
+Premium collected: $346K
+Delta: 184.2K shares
+$ Delta: $2.4M for sale
+$ Vega: $-1.8K
+10:08:20 What did we see at Citadel Securities in Cash and Vol on a rare down day (SPX -79bps)?
+
+1. Citadel Securities retail option flow, as measured by our Call/Put Direction ratio was 17% better to buy yesterday, and the 3rd highest reading of 2025 (only 1/27 and 4/3 saw a higher reading of bullish activity).
+
+2. In addition, this was also a top 10 “bullish” options reading since 1/1/24.
+
+3. Yesterday our most bullish option activity were in sectors were technology, discretionary, and financials.
+
+4. Institutional investors were hedging via options. Our Call/Put Direction ratio was 37% better for sale. This is significant as we saw an uptick in index hedges from “macro investors”...
+10:19:27 CHINA upside going through here—both opening
+
+ASHR -- Citadel Securities cust bot 8,800 Jan 35 call for $0.235 to open (ref. 27.87)
+  Breakeven: +26.4% ($35.24)
+
+ASHR -- Citadel Securities cust bot 11,600 Jan 33 call for $0.44 to open (ref. 27.88)
+  Breakeven: +20% ($33.44)
+11:47:58 SPX upside:
+
+SPX Jul31 6500c paper buys 7.7k screens last $6.9 ref 6273.25
+
+Yesterday someone spent 40mm premium on 21Jul 6230 calls not sure its related
+11:55:11 More call buying:
+
+SPX AugPM 6650c paper 7.5k screen last 5.5 ref 6277
+12:57:27 FBIN -- Citadel Securities cust does the following:
+
+sold 36,000 Sep 50 put at $1.79 to open
+bot 28,000 Sep 55 call for $2.70 to open
+sold 2,431,000 shares for $53.80
+
+FBIN shares are down over 40% from the mult-year high back in October and customer is replacing long shares with this ratio risk reversal...
+14:38:58  HIMS -- Upside flier bot here, leaning into the retail/momo trading activity flagged in the Retail Detail monthly yday morning:
+
+Citadel Securities cust bot 1,300 HIMS Aug 80 call for $1.09 to open (ref. 49.71) // Right tail trade breaks even +63% over the next two months, 11% higher than the current ATH.
+
+HIMS was a standout story from our Retail Detail June overview, seeing a rapid rise in popularity (#18 ranked single stock in June, up from #87 on avg in 2024) with retail options volume making another new high.
+
+Given HIMS high short interest (35% of float) and high volatility (30-day realized vol is ~145), HIMS is a prime candidate for a retail-induced rip higher, and these 13 delta calls an interesting way to play.
+Wednesday, July 9, 2025
+BRIAN CONNORS
+08:49:50 ** NEXT WEEK : Citadel Securities Summertime Cocktails! **
+
+Join the Citadel Securities team for our annual "summer spritz" cocktail event!
+
+We invite you to enjoy the warm weather and cold drinks at Lever Club on Thursday JULY 17th starting at 5pm.
+
+Come sip into the summer with us!
+
+Register Here: https://cvent.me/1a2971
+ALLIE BECHER
+09:45:32 Market's Most Shorted: The Squeeze is On
+
+Retail options activity remains in one of the longest duration bull runs we have seen in the history of our platform, now in the 11th consecutive week of options buy skew.
+
+Stocks with high short interest continue to dramatically outperform the broader market on this ultra-bullish, robust retail activity. Our basket of the 50 most shorted stocks in the market is up another 1.75% this morning (on the heels of +1.4% rally yday vs SPY -5bps, QQQ +6bps, and IWM +69bps)
+
+Where to next?
+
+Some of these "Most Shorted" names present interesting opportunities to play the retail-induced rip higher. The only 6 instances we've seen retail activity like this, streak lasts 18 weeks on avg (th...
+BRIAN CONNORS
+09:50:38 NVDA -- Citadel Securities cust bot 2,500 Jul 170/180 call spread for $1.23 to open (ref. 164.18)
+Breakeven: +4.3% ($171.23)
+Premium paid: $307.5K
+
+Momo player.
+09:53:40 VIX -- Citadel Securities cust sold 10,000 Jul 17/19 1x2 put spread at $1.00 to close (ref. 17.32)
+
+Cust paid .44 for this with July VIX at 20.95 1x2 and is monetizing into this vol slide. Many of these 1x2s are flipping to long delta on a net basis and with July expiry approaching, would expect to see more July downside for sale / rolls to August. VIX August 18/16 1x2 is .52 ish
+09:55:03 Away rolling an upside call spreads
+
+SPY sold 15400 of the 11Jul 615 625 call spread
+Bought 23100x 25Jul 630 640 call spread
+
+Collected 3.22 as a 1x1.5.  Continue to see right tails go through; however, in broad based index it has been less than in single stocks (ex IWM).
+
+Little earlier a SPY 22Aug 545 505 465 fly traded 75kx150k times
+10:18:13 XLP --  Sep 75 puts bot for $0.43 30,000x (ref.80.89)
+
+XLP is down ~1.5% since Monday's close, customer pays $1.29mm in premium on these 12d puts that b/e down  another 7.8% from current spot. Trade creates $15mm delta for sale and kicks in $227k of vega to buy.
+10:24:38  SPY upside rolled earlier and now we are kicking around some QQQ
+
+QQQ -- Citadel Securities cust bot 4,300 Aug 570 call for $7.01 to open (ref. 556.72)
+Breakeven: +3.6% ($577.01)
+Premium paid: $3M
+11:01:02 VIX Jul 21 30 call spread:  paper bot 5,000x for $.19
+
+cheap hedge for a sharp risk off... 46x max payout.. Personally rather own the 21s outright given the 30s are .06- paper could be rolling down
+
+Earlier these were bought as well:
+VIX Jul 22.5 call: paper bot 30k for .18
+12:21:39 ASHR upside:
+ASHR Aug 1st 29.5c bot 6400x  for .125 to open tef 27.89
+
+seems to be targeting the new tariff "deadline"
+13:45:21  China Upside -- Emerging theme this afternoon:
+
+* ASHR -- Aug1st 29.5 call bot 6,400x for $0.125c to open (ref 27.89)
+* FXI -- Aug1st 39 call bot 6,500x for $0.19 to open (ref 36.13)
+
+Both seem to be targeting new trade tariff deadline and continue the upside demand that started to build here yday. Most notable trades were:
+* Citadel Securities cust bot 11,600 ASHR Jan 33 call for $0.44 to open (ref. 27.88); breakeven +20% ($33.44)
+* Citadel Securities cust bot 9,300 ASHR Jan 35 call for $0.235 to open (ref. 27.87); breakeven +26.4% ($35.24)
+14:33:29 SPX Jan26 7300/7900 Call 1x10 paper sold 1,000x of the 7300s to buy 10,000x of the 7900s, collected $.30 as a 1x10
+
+7900s are 24% away
+15:57:59  COST -- Two huge downside bets just traded here with  June sales/revs to be released after the close:
+
+* Citadel Securities cust bot 1,900 COST Jul11 952.5 put for $1.36 to open (ref. 979.85) // Breakeven -2.9% ($951.14)
+
+* Citadel Securities cust bot 2,400 COST Jul11 960 put for $1.69 to open (ref. 979.66) // Breakeven -2.2% ($958.31)
+17:49:34 *** S LEVIN (PAN CAPITAL ENERGY FUND LP) removed DAN MIRABELLA (PAN CAPITAL ENERGY FUND LP)
+S LEVIN
+17:50:23 Guys, it sounds like we are getting our SEC registration and a proper prime - so we should discuss taking this to "the next level" (i.e. Actually setting up to trade)
+BRIAN CONNORS
+18:00:16 Let’s go!
+18:00:55 How come Dan gone, he doesn’t like us anymore ?
+Thursday, July 10, 2025
+ALLIE BECHER
+07:16:30 Retail Detail - Daily Update for 7/10/25
+
+Overall Options Volume Percentile (1Y): 61%
+Options Volume vs 12m ADV: 1.03x
+Overall C/P Direction Ratio: 4% better to buy
+
+New names to Top 20 single stocks: PLUG, MARA, MSFT, GOOG, COIN
+Names out of Top 20 single stocks: SOUN, QS, BTBT, WOLF, ORCL
+Top 20 Most Bullish: BBAI, PLUG
+Top 20 Most Bearish: GOOGL, HOOD
+
+Top Jumps in Single Stock Volume (vs 3m ADV): AMPX, SBET, CNC, BE, BTBT
+Top Jumps Most Bullish:	OPEN, KSS
+Top Jumps Most Bearish: U, AES
+08:39:53 NVDA $4 Trillion & Options Traders Want More:
+
+NVDA's mkt cap reached $4 Trillion for the first time EVER intra-day yday, speaking to the power of the AI boom as it continues to drives positive sentiment throughout the market.
+
+NVDA options volume on this monumental day was ~10% higher than recent averages, with front-week calls unsurprisingly dominating flow. Most interesting line is the NVDA Jul11th 165 calls, which traded over 340,000x contracts (!!). These went out at ~28 delta, but are opening right at the money on the pre-market rally.
+
+$4T was a huge win for retail options traders on our platform yday -- After net buying calls on Monday (18% better to buy thru our C/P direction ratio) and Tuesday (15% better to buy) with ~$16M in premium net spent across the two days, retail majorly ...
+BRIAN CONNORS
+09:38:38 Impressive leverage on this VIX August, if need a hedge:
+
+VIX -- Citadel Securities cust bot 30,000 Aug 25/35 call spread for $0.52 to open (ref. 19.21)
+Breakeven: +32.8% ($25.52)
+Premium paid: $1.6M
+Delta: 15%
+$ Delta: $8.5M to buy
+$ Vega: $23.8K
+Max Net Payout: 18.2x
+10:34:20 NCLH -- Citadel Securities cust rolling big upside position higher on the strength this morning  (ref. 22.74):
+
+sold 12,500 Sep 22 calls to close
+bot 12,500 Sep 24 calls to open
+collected $0.93
+
+New strike up +5.5% from current spot and Sep expiry will capture next earnings (7/31).
+
+Other bullish cruise line flow in the mkt this morning also rolling exposure up and out: CCL Jul 25-Aug 29 call spread bot 2,900 for $2.72 (Ref 29.09)
+S LEVIN
+11:53:02 Following up on the things from yesterday - what do we need to get the docs going?
+ALLIE BECHER
+12:29:13 Hey hey
+12:29:32 Connors in a meeting but making sure he catches u here and gets back to u on outstanding doc requests
+S LEVIN
+12:53:12 awesome
+BRIAN CONNORS
+14:00:18 Serge what's up man
+14:00:25 What's ur email
+14:00:31 Ill add u to the thread
+14:00:48 We have all the requirements in an email, but u guys haven't responded
+Friday, July 11, 2025
+ALLIE BECHER
+07:40:37 Retail Detail - Daily Update for 7/11/25
+
+Overall Options Volume Percentile (1Y): 79%
+Options Volume vs 12m ADV: 1.11x
+Overall C/P Direction Ratio: 1% better to buy
+
+New names to Top 20 single stocks: AAL, CRWV, DAL
+Names out of Top 20 single stocks: PLUG, GOOG, BBAI
+Top 20 Most Bullish: CRWV, AMZN
+Top 20 Most Bearish: SOFI, DAL
+
+Top Jumps in Single Stock Volume (vs 3m ADV): LEVI, POET, AMPX, SBET, DAL
+Top Jumps Most Bullish:	BE, BTBT
+Top Jumps Most Bearish: CLF, JOBY
+BRIAN CONNORS
+09:01:14 Volatility Vision -- The start to Q3 has been marked by an outperformance of IWM vs SPY/QQQ, a sharp rally in industries like homebuilders (XHB +8%) and regional banks (KRE +7%), and some depressed price action for momentum names in general (MTUM -1%). It is a major shift from Q2, which was hallmarked by mega-cap tech/semis/AI/momentum surging ahead (QQQ +18%/SMH +32%/MTUM +19% vs IWM +8% in Q2). On this factor unwind, there are a handful of interesting opportunities across the volatility landscape worth noting:
+
+1) MSOS -- The unloved Cannabis ETF rallied 5.07% yesterday and traded nearly 6x the 20-day average option volume. That flow was largely concentrated in near term upside:
+ 8k of the Jul 3 calls - up 12.4 vols on the day
+ 8k of the tomorrow 3 calls - up 18.5 vols on the day
+ 4k of the Jul 3.5 calls - up 11.6 vols on the day
+
+To put the vol move in additionally cont...
+09:01:22 
+image.png 551 KB 
+09:40:12  Cheap 0dtx punt on a Friday, if you want to follow the intraday rally playbook that has worked well this week:
+
+SPY Jul-11-2025 625 call is at $.39 ref 622.65
+
+Yesterday high was 626.87 and only 67 bps away... Just a thought?
+10:00:36 EEM -- Citadel Securities cust sold 30,000 Sep 50 call at $0.61 to close (ref. 48.31)
+10:13:04 China Upside 🇨🇳 🇨🇳 🇨🇳 :
+
+ASHR Jan 34 calls bot 14,250x to  open for .35
+10:17:58 EWC -- Citadel Securities cust rolling out, does the following (ref. 46.08):
+sold 5,000 Jul 44 put at $0.05 to close
+bot 5,000 Sep 44 put for $0.50 to open
+Premium paid: $225K
+10:31:05 Demand for China upside continues
+
+FXI -- Aug 38 Calls bot for $0.58 10,000x (ref 36.56)
+
+Playing for a +5.5% move higher in the next month
+11:36:22 IWM 0DTE-- Citadel Securities cust bot 4,000 Jul11 223 call for $0.35 to open (ref. 222.54)
+Breakeven: +0.4% ($223.35)
+Premium paid: $140K
+11:50:05 China Macro Upside/Thesis from Scotty Rubner – Working Framework: ASHR
+
+1. There has been a recent uptick in macro demand for call options in FXI (H), ASHR (domestic), and KWEB (Tech/AI) high fliers.
+
+2. This fits the thesis of anti-consensus, high beta, cyclicals, value.
+
+3. The domestic market via ASHR has gotten the most overall traction given recent positive developments on the property side.
+
+4. The stability of the external domestic macro market (Hibor / HKD / Property/Stability of Equity Market in price terms).
+
+5. This product usually gets some FOMO behavior, and given the difficulty in tracking benchma...
+15:11:27 CMG -- Citadel Securities cust does the following (ref. 55.93):
+
+bot 12,500 Jul 57 call for $0.47 to open
+sold 12,500 Jul 59 call at $0.19 to open
+sold 30,500 Jul 58 call at $0.21 to close
+bot 30,500 Jul 60 call for $0.11 to close
+Premium paid: $43.5K
+
+We have been very active in short term upside and customer rolling down and reducing notional of an upside bet..
+15:35:30 @S Levin making sure u saw my onboarding email yesterday
+S LEVIN
+15:40:02 ? No I  did not - lemme check
+BRIAN CONNORS
+15:40:36 Around 4pm yesteday
+S LEVIN
+15:42:31 Found it
+15:42:51 It went straight to some random mailbox for market color
+15:43:06 Cool, lemme follow up
+BRIAN CONNORS
+15:43:10 Thanks man
+Monday, July 14, 2025
+ALLIE BECHER
+07:36:51 Retail Detail - Daily Update for 7/14/25
+
+Overall Options Volume Percentile (1Y): 96%
+Options Volume vs 12m ADV: 1.28x
+Overall C/P Direction Ratio: 6% better to buy
+
+New names to Top 20 single stocks: NIO, OSCR, GOOG
+Names out of Top 20 single stocks: AAL, INTC, DAL
+Top 20 Most Bullish: OSCR, CRWV
+Top 20 Most Bearish: GOOGL, AMZN
+
+Top Jumps in Single Stock Volume (vs 3m ADV): LEVI, SBET, UMAC, KTOS, OPEN
+Top Jumps Most Bullish:	AES, BTBT
+Top Jumps Most Bearish: ONDS, LEVI
+08:59:37 Retail's Big Bullish Streak... Keeps on Going!
+
+Last week marked the 11th consecutive week of bullish retail options sentiment at Citadel Securities, one of the longest streaks we've ever seen. We are officially in one of just 7 instances since the start of the retail boom in Jan 2020 with persistent bullish options skew of this duration.
+
+The previous 6 instances tell us there is more in store. The average duration of the previous 6 streaks is 18 weeks.... AKA we could have 7 MORE WEEKS of bullishness.
+
+What does this bullishness mean for retail's biggest names? Active options trading + high vol + calls dominating + flattening/inverting skew.
+ * Retail's 20 most active stocks of the last week have an average 30d realized vol of 55 (vs SPX realized just 9.6)....
+BRIAN CONNORS
+10:06:36 IEF -- Citadel Securities cust bot 11,400 Jul 95 call for $0.11 to open (ref. 94.39)
+
+Breakeven: +0.8% ($95.11)
+$ Delta: $24.8M to buy
+
+seeing increased demand for these soft CPI print expressions // these calls line up well at < 6 vol
+10:25:53  IBIT -- Short-term bitcoin upside in demand as "Crypto Week" gets underway...
+
+IBIT Jul31st 78 calls bot 10,000x up to $0.43 to open (ref 69.07)
+
+The House will debate (and possibly vote on) the CLARITY Act, the Anti-CBDC Surveillance State Act and the Senate’s GENIUS stablecoin package this week, driving BTC to new ATHs.
+
+Seeing major outperformance in crypto single stocks like MARA as well.
+10:48:56  Wanted to flag the upside vol buyer of TUR (turkey etf) ahead of the Russia announcement:
+
+TUR Jul 34 calls have been bot 6000x for up to .25 so far today
+
+volume in TUR options today is already 27x its 20d average, largely thanks to this flow
+10:49:27 EWZ -- Brazil active here this morning with custs initiating new downside + rolling existing down and out...
+
+* Citadel Securities cust bot 14,600 EWZ Aug 27 put for $0.63 to open (ref. 27.3) // Breakeven -3.4% ($26.37), Delta: -41%
+
+* Citadel Securities cust sold 19,300 Jul 28 put at $0.70 to close and bot 19,300 Aug 27 put for $0.57 to open (vs sold 676,300 shares for $27.40) // rolling puts down and out delta neutral
+13:12:04 PEP -- Citadel Securities cust bot 15,000 Jul 125/130 put spread for $0.53 to open (ref. 135.72)
+
+Breakeven: -4.6% ($129.47)
+
+Customer has been loading in to downside for the past few weeks - now long about 50k July puts in different strikes.
+
+They report earnings on 7/17. Implied move ~3.38%.
+13:56:23 XLF -- Citadel Securities cust bot 5,000 Jun 39 put for $0.595 to open (ref. 52.56)
+Breakeven: -26.9% ($38.41)
+Premium paid: $297.5K
+15:40:41 Hedging flow starting to pick up:
+
+SPY -- Citadel Securities cust bot 15,000 Jul15 618/619 put spread for $0.10 to open (ref. 624.62)
+CPI Digi- I like this one
+
+separate customer rolling up an IWM put spread (1Aug kind)
+
+IWM -- Citadel Securities cust does the following (ref. 222.98):
+
+sold 5,000 Aug1 210 put at $0.99 to close
+bot 5,000 Aug1 200 put for $0.29 to close
+
+bot 5,000 Aug1 215 put for $1.82 to open
+sold 5,000 Aug1 205 put at $0.52 to open
+Tuesday, July 15, 2025
+ALLIE BECHER
+07:23:38 Retail Detail - Daily Update for 7/15/25
+
+Overall Options Volume Percentile (1Y): 52%
+Options Volume vs 12m ADV: 1.0x
+Overall C/P Direction Ratio: 2% better to buy
+
+New names to Top 20 single stocks: HIMS, NBIS, BBAI, INTC
+Names out of Top 20 single stocks: COIN, CRWV, MSFT, GOOG
+Top 20 Most Bullish: OSCR, AAPL
+Top 20 Most Bearish: PLTR, HIMS
+
+Top Jumps in Single Stock Volume (vs 3m ADV): KODK, SBET, CAN, OPEN, UMAC
+Top Jumps Most Bullish:	KODK, OPEN
+Top Jumps Most Bearish: UMAC, RCAT
+07:48:53 Notes & flows ahead of CPI at 8:30 am ET:
+
+Our Macro Vol Team notes that consensus has been for 0.3% core PCE 25-29bps with some recent previews and general whisper starting to drift a touch lower, giving room for some more bullish takes. The event itself is the cheapest its been in over a year, and while its tempting its very hard to build a strong case for this being an easy win. The beta of IWM is notably high at 2.2 while Qs trades in-line with historicals ~1.2. With July off the table (<5%) for the FOMC and September close to coinflip at 60%, there aren't any obvious mispricings as the market is stuck in a "wait and see mode", more likely to react to the prints we get in Aug and Sep as it tries to calibrate how Fed path will evolve towards the end of the year and into next.
+
+Into the event...
+* SPY: 0.5% implied move vs 1.1% abs avg...
+09:53:39 China Internet (KWEB) dominating options flow this morning following overnight news that NVDA allowed to resume sales of its H20 AI chip in China.
+
+In first 20 mins of the session, KWEB has already traded ~80% of a FULL DAY'S volume with calls leading puts 3:1. Some of the most notable trades on our desk so far:
+
+* KWEB -- Citadel Securities cust bot 10,000 Sep 19th 33/39 strangle for $1.49 to open (ref. 35.14) // Buying  $100k KWEB vega
+
+* KWEB -- Citadel Securities cust bot 5,000 Oct 40/44 call spread for $0.52 to open (ref. 35.14) // break even +15.3% ($40.52), 14 delta with 6.7x net max payout
+10:22:51 Worth noting that China tech vol well-bid across the curve on this rally + skew getting smushed as traders continue to reach for upside:
+
+KWEB Jul ATM IV +1.2pt
+KWEB Aug ATM IV +1.1pt
+KWEB Sep ATM IV +0.7pt
+KWEB Dec ATM IV +0.6=7pt
++
+KWEB 1m 110% vol now trading >2.5 vols over the 90%.
+
+Same Citadel Securities cust that we flagged a few mins ago on that KWEB Oct 40/44 call spread just bot another 5,200x for $0.48 to open (ref. 35.1), makes 10,200x bot so far on the day.
+15:59:25 China Update: KWEB vols continue surging on the outperformance +  options activity gaining momentum.
+
+With calls across Jul and Aug expiries leading flow, seeing the biggest shifts higher in near-term KWEB vols on the ramp today:
+KWEB Jul ATM IV +6.5pt
+KWEB Aug ATM IV +4.7pt
+KWEB Sep ATM IV +3.1pt
+KWEB Dec ATM IV +2.5pt
+
+There have only been 12 times in the last year that KWEB has moved >4.15% in a day, most interesting was on Sept 19th (KWEB +4.5%) -- In the three weeks following, KWEB had FOUR MORE rallies of even greater magnitude (+10.3% on 9/24, +11.6% on 9/26, +6% on 10/1, and +6.4% on 10/2).
+
+Institutional flow has been leaning into the momentum with KWEB & EEM calls/call spreads....
+Wednesday, July 16, 2025
+ALLIE BECHER
+07:18:48 Retail Detail - Daily Update for 7/16/25
+
+Overall Options Volume Percentile (1Y): 84%
+Options Volume vs 12m ADV: 1.16x
+Overall C/P Direction Ratio: 7% better to buy
+
+New names to Top 20 single stocks: BABA, MP, MSFT, COIN, OPEN, UNH
+Names out of Top 20 single stocks: NIO, HIMS, OSCR, NBIS, BBAI, INTC
+Top 20 Most Bullish: GME, OPEN
+Top 20 Most Bearish: BABA, GOOGL
+
+Top Jumps in Single Stock Volume (vs 3m ADV): OPEN, AMPX, SBET, MP, JBLU
+Top Jumps Most Bullish:	BTBT, WFC
+Top Jumps Most Bearish: JOBY, BABA
+09:12:46 3 key themes from yday's options activity: China tech stocks lead big volume, HYG tail protection grows, and Bitcoin dip buying.
+
+* Volumes running hot, led by China tech high fliers -- Market-wide options activity was ~9% higher than 20d avg and retail options activity ran ~8% higher. China tech the biggest thematic standout following positive NVDA chip news: KWEB (options volume 6x avg), FXI (2x), BIDU (5x), BABA (3x), NIO (2x) and JD (2x) were all among the market's largest jumps. Retail options volume across China ADRs and ETFs was in the 90th %ile of the last 1Y, the biggest day since September, and institutional custs here leaned into the momentum with KWEB & EEM calls/call spreads.
+
+* FI Hedging with HYG -- Yday was the most active trading of HYG puts in over a month, with total options >2x more active than avg. Short-dated tail hedges are the most interesting theme from institu...
+BRIAN CONNORS
+09:17:42  VIX expiry update: current settlement indication around 16.84 with only 30k vega paired off
+ALLIE BECHER
+09:46:58 OPEN -- Huge institutional call buyer out of the gate today leaning into big retail momentum...
+
+OPEN Aug 1.5 calls were bot 20,000x up to $0.28 to open (ref 1.27)
+
+Flagged OPEN this morning in our Retail Detail as a new add to the Top 20 most active stocks yday AND one of the most bullish of the Top 20.
+
+OPEN is a prime candidate for a continued, retail-induced rip higher, which is already well underway -- OPEN has 22% SI and notably volatile price action (30d realized = 137 vol). Today is the 3rd consecutive day of >10% gains.
+BRIAN CONNORS
+11:05:41 HYG -- Citadel Securities cust does the following (ref. 79.94):
+
+sold 30,000 Jul25 80 put at $0.21 to close
+bot 30,000 Jul25 76 put for $0.01 to close
+bot 30,000 Aug29 79 put for $0.315 to open
+sold 60,000 Aug29 76.5 put at $0.12 to open
+bot 30,000 Aug29 74 put for $0.055 to open
+Premium collected: $210K
+
+Rolling a July 25th put spread in to an August month-end put fly.
+11:25:33 VIX upside off the back of the Trump headline:
+
+VIX Aug 30 call bot 20,000x for .82
+11:50:06 Scott Rubner is out with his FIRST NOTE! - Citadel Securities | Global Market Intelligence (GMI) | August Views
+
+In his first note, Scott poses the question: “Is it time to fade the equity market rally?” [HIS] response: “We are not there yet.”
+
+WHY? (1) Retail buy the dip behavior (2) Low institutional positioning and return of corporate buyback  (3) Bullish on US equities led by fundamental earnings and positive flow dynamics (4) July seasonals are exceptional for US stocks
+
+Then WHEN? During mid-August -- Scott  recommends adding equity index hedges for September month-end. This may take advantage of lower implied volatility to hedge any macro events. September 2nd (post Labor Day) typically marks the highest point for the month over the past 100 years....
+15:01:06  Continued demand for ETHA optionality - 3.86x more contracts have traded today that the 20d average
+
+ETHA -- Citadel Securities cust bot 10,000 Dec 12 put for $0.36 to open (ref. 25.29)
+Breakeven: -54% ($11.64)
+Premium paid: $359.8K
+Delta: -5%
+$ Delta: $1.2M for sale
+15:16:26 PEP- back buying more downside
+
+Citadel Securities customer bought another 15k of the Jul 130 125 put spread up to 69c outright opening
+
+Earnings tomorrow am with options implying a 3.66% move.  Weve been active here for a few weeks...
+Thursday, July 17, 2025
+ALLIE BECHER
+09:01:16 Retail Detail - Daily Update for 7/17/25
+
+Overall Options Volume Percentile (1Y): 73%
+Options Volume vs 12m ADV: 1.12
+Overall C/P Direction Ratio: 4% better to buy
+
+New names to Top 20 single stocks: RGTI, BTBT, SBET, BAC, JOBY
+Names out of Top 20 single stocks: BABA, MP, MSFT, GME, UNH
+Top 20 Most Bullish:
+Top 20 Most Bearish:
+
+Top Jumps in Single Stock Volume (vs 3m ADV): LAC, OPEN,  DNN
+Top Jumps Most Bullish: OPEN, BAC, AMZN
+Top Jumps Most Bearish: RGTI, JOBY, HOOD
+09:17:18 Scott Rubner, our new Head of Equity and Equity Derivatives Strategy, published his inaugural Citadel Securities Global Market Intelligence note yday afternoon...
+
+Scott highlights why it is not yet time to fade the equity market rally -- (1) Retail buy the dip behavior (2) Low institutional positioning and return of corporate buyback  (3) Bullish on US equities led by fundamental earnings and positive flow dynamics (4) July seasonals are exceptional for US stocks
+
+Please let me know if you did not receive / would like to be subscribed!
+BRIAN CONNORS
+11:11:23 ASHR -- 6m China upside buyer leaning into the outperformance today:
+
+ASHR Jan 34 call bot 20,000x for $0.41 to open (ref 28.34), Over 28,000x on the tape so far today
+
+ASHR up ~8% since the start of June, these calls play for another ~20% by Jan expiry
+12:42:00 Hedging AMD earnings:
+
+QQQ -- Citadel Securities cust bot 15,000 Aug8 520/550 put spread for $3.58 to open (ref. 561.73)
+
+Breakeven: -2.7% ($546.42)
+Premium paid: $5.4M
+$ Delta: $180M for sale
+$ Vega: $412.8K
+Max Net Payout: 7.4x
+12:52:02 ETHE -- Citadel Securities cust rolling up a bullish Ethereum bet & adding more exposure (ref. 28.12):
+
+sold 3,000 Jan 23 call at $8.16 to close
+bot 4,500 Jan 28 call for $5.76 to open
+
+Bunch of interesting bullish crypto bets on the desk today, one other worth highlighting: Citadel Securities cust bot 2,500x IBIT Nov 50/70/72 call spread collar, collected $0.52 to open (ref. 67.55).
+ALLIE BECHER
+14:16:18 Retail Call Domination & "Market's Most Shorted" Surging:
+
+As of our mid-day run, retail options traders at Citadel Securities have traded 2.08 calls for every 1 put, on track to be the largest skew to calls we have seen since March 2022 (AKA in over 3 years!!) Standout names for heavy retail call flow include GRAB, JBLU, DDOG, BTBT, and SPCE.
+
+This heavy call skew is manifesting itself in our basket of the 50 most shorted stocks in the market -- The "Market's Most Shorted" are currently up 3.3% (following a 2% rally yday) vs SPY +0.5%/QQQ +0.7%/IWM +1%.
+
+AMC is one name to note where we are seeing heavy retail call volume AND heavy institutional call volume. Market-wide options activity is running 3x avg and calls have traded 12x for every 1 put.  St...
+Friday, July 18, 2025
+ALLIE BECHER
+07:55:03 Retail Detail - Daily Update for 7/18/25
+
+Overall Options Volume Percentile (1Y): 94%
+Options Volume vs 12m ADV: 1.25x
+Overall C/P Direction Ratio: 1% better to buy
+
+New names to Top 20 single stocks: LCID, NIO, BBAI, QBTS, MSFT, APLD, QS
+Names out of Top 20 single stocks: RGTI, MARA, BTBT, SBET, SMCI, BAC, JOBY
+Top 20 Most Bullish: NIO, AMD
+Top 20 Most Bearish: BBAI, QBTS
+
+Top Jumps in Single Stock Volume (vs 3m ADV): LAC, OPEN,  NN, LCID, ABT
+Top Jumps Most Bullish: GRAB, DDOG
+Top Jumps Most Bearish: UAL, NN
+08:42:59 Our weekly Volatility Vision note highlights the current "low vol" regime for equities, particularly comparing low implieds to even lower realizeds.
+
+Scott Rubner highlighted this low implied/realized dynamic as it relates to rules-based vol strategies in his inaugural note earlier this week, citing this as a contributing factor to a continued equity rally in the short term.
+
+While broader volatility remains low, there are some interesting pockets of high vol in the single stock and macro landscapes:
+
+* UNH -- After selling off another 1.5% yesterday, UNH is majorly underperforming the broader health care sector, down 43% YTD vs XLV down 3.5%. With earnings ahead on 7/29, current skew levels tell us the market is pricing in a big bounce back. UNH 1- and 2-month skew are both in the 2nd percentile. Thi...
+08:43:04 
+image.png 779 KB 
+09:10:12 Retail YOLO Alert -- "Market's Most Shorted" rallying pre-mkt and retail traders rounding out the 12th consecutive week of bullish options flow.
+
+Given all monthly expiry options will become 0DTE today, can expect to see a continued surge in retail participation. Best candidates with the the highest short interest and big jumps in retail options volume to play some retail YOLO call buying this Friday:
+
+* NN: 24% SI, retail volume 49x avg, 74x calls traded for every put
+* SPCE: 29% SI, retail volume  12x avg, 11x calls traded for every put
+* AI: 21% SI, retail volume 2.2x avg, 11x calls traded for every put
+* RILY: 42% SI, retail volume 1.9x avg, 3x calls traded for every put
+* CLSK: 26% SI, retail volume 1.1x avg, 8x calls traded for every put
+BRIAN CONNORS
+09:47:03 More VIX Aug Call Spreads being bot:
+
+VIX Aug 25 35 call spread bot 10,000x for .435
+
+now almost 400k of OI in the 25  line
+09:55:24 KWEB Ratio Call Spreads being bot:
+
+KWEB aug 39-42 1x1.5 cs bot 5000x for .275
+11:08:53  KWEB -- Citadel Securities cust bot 3,500 Aug 39/42 1x2 call spread for $0.18 to open (ref. 36.6)
+Breakeven: +7% ($39.18), +22.5% ($44.82)
+Monday, July 21, 2025
+BRIAN CONNORS
+07:39:51  What happens next with the FOMC? Register here: https://cvent.me/Ev75O9
+
+TODAY Monday, July 21  | 8:30am ET / 1:30pm London
+
+Please join us for a discussion on potential scenarios and legal maneuvers with Kathryn Judge, Harvey J. Goldschmid Professor of Law and Vice Dean for Intellectual Life at Columbia Law School.
+
+Professor Judge will take us through the current and potential future state of the FOMC from the perspective of legal maneuvers that could occur with the appointment of a new Fed Chair and the instalment of new FOMC Governors.
+
+The conversation will be hosted by Nohshad Shah, Head of Fixed Income Sales, EMEA for Citadel Securities.
+11:58:47  OPEN -- last week we flagged an uptick in OPENas a prime candidate for a continued retail rally (SI 22%), check out the stock this morning
+
+Stock is up 80.22% today and 1.4mm options on the tape vs. 10d average 330k
+11:59:58  ETHE -- Citadel Securities cust continues to lean into bullish Ethereum price action (ref. 31.56):
+
+sold 4,500 Jan 28 call at $8.00 to close
+bot 4,900 Jan 35 call for $5.31 to open
+
+Collected $1mm in premium to roll up + add units. New strike up another 10% from current spot (ETHE has rallied 51% already in July).
+13:10:04 Massive FXI upside:
+FXI Sep 30th 40 calls bot 100,000x LIVE for 1.13
+
+Cust in the market spent $11.3mm for $144mm worth of delta exposure
+
+These 40 delta calls breakeven up 7.45% between now and quarter end
+ALLIE BECHER
+15:03:08 MSOS -- Big Cannabis call spread bot in the market. Another way to play the continued retail ramp...
+
+MSOS Oct 4/7 call spread bot 20,600 for $0.17 to open (2.71)
+
+Stock up 10% today and this trade pays 16x net on a return to levels traded in November.
+
+Cannabis has been on the retail radar for many years, with MSOS + single stocks like TLRY quite active. This could be another industry where a surge in call volume can drive stocks meaningfully higher. (Ie. Short interest in TLRY is 21%)
+15:14:48 The OPEN Re-Open -- Retail options volume surging:
+
+*Opendoor Technologies Inc. (OPEN) Resumed Trading
+
+OPEN has been the poster child for this latest round of retail meme mania, with stock up now ~66% on the day (even after falling >30% from the highs) -- OPEN is up >575% on the month so far!!!
+
+OPEN is the #1 most active single stock in the entire market for options volume today -- It has traded 2.55 million contracts. For reference on how massive that is, SPX has traded 2.9 million contracts. NVDA, the usual leader, has traded "only" 1.3 million contracts.
+
+It is also the #1 most active single stock for retail options traders at Citadel Securities as of our mid-day run, with a 1% buy skew and 2 calls traded for every 1 put....
+Tuesday, July 22, 2025
+ALLIE BECHER
+07:38:32 Retail Detail - Daily Update for 7/22/25
+
+Overall Options Volume Percentile (1Y): 96%
+Options Volume vs 12m ADV: 1.29x
+Overall C/P Direction Ratio: 6% better to buy
+
+New names to Top 20 single stocks: GME, NVTS, QS, QBTS, OSCR, NIO
+Names out of Top 20 single stocks: COIN, NFLX, BULL, META, SBET, APLD
+Top 20 Most Bullish: LCID, QS
+Top 20 Most Bearish: OSCR, NIO
+
+Top Jumps in Single Stock Volume (vs 3m ADV): OPEN, S, ABAT, UPXI, BYND
+Top Jumps Most Bullish: CLOV, S
+Top Jumps Most Bearish: GLXY, RUM
+08:48:44 OPEN and Retail's "Big Bullish Streak" -- 4 things you need to know:
+
+(1) Retail options activity is simply massive and majorly bullish -- 2 of retail's top 20 trading days EVER were yday and last Friday, driven by options flow in OPEN. This week is also set to continue retail's "Big Bullish Streak", one of the longest bull runs we have ever seen, into its 13th consecutive week of bullish options sentiment.
+
+(2) OPEN is the poster child for this huge retail surge as the #1 most active single stock for options trading -- OPEN traded 3.4mm contracts mkt-wide yday, which was more than double NVDA (the next largest and typical #1). OPEN retail volume has also made new ATHs, 15x more active than the trailing 20d avg. OPEN call OI is also at ATHs.
+
+(3) OPEN retail flow is heavily focused ...
+08:48:49 
+image.png 104 KB 
+09:38:45 *KOHL'S TRIGGERS CIRCUIT BREAKER AFTER TRIMMING GAIN TO 62%
+
+Biggest rally in the market to start the day + HUGE  options volume + 49% short interest all major retail flags.
+
+Options volume before stock was halted was already nearly 2x the average FULL DAY.
+09:45:16 Keep an eye on this list:  Top 150 volume names of the past month , did a simple market cap normalization to take out the TSLAs and NVDAs of the world, filter for high short interest.
+
+These are the most explosive / worth paying attention to.
+09:45:20 
+image.png 153 KB 
+11:17:52 ARKK -- Institutional flow here notably two-way with ARKK being used as a proxy to lean into/fade the retail surge. Some of the most interesting trades this morning...
+
+Leaning into retail:
+* Citadel Securities cust bot 3,800 ARKK Aug 81/86 call spread for $0.80 to open (ref. 75.43)
+
+Fading retail:
+* Citadel Securities cust bot 5,000 ARKK Aug 60/65 put spread for $0.31 to open (ref. 75.77)
+* Citadel Securities cust bot 3,000 ARKK Aug 65/70 1x1.5 put spread for $1.10 to open (ref. 75.47)
+
+Comparing a basket of Retail's Top 20 names in July (equal weighted) to a variety of index/ETF products, ARKK is the most correlated. The basket has rallied 12% so far MTD alongside ARKK +8.3%. SPY/QQQ/IWM on the other hand are up +1.6%/+1.7%/+3.1%
+11:59:57 GOOGL -- Bullish bet ahead of earnings tomorrow:
+
+GOOGL Aug 190 call bot 8,500x up to 7.70 (ref 189.59)
+
+Trade created $85mm delta to buy. Breaks even +4.2% over the next ~month and implied move for the print is 5.3%.
+12:13:16 XRT -- Citadel Securities cust bot 4,700 Aug1st 82.5/83 call stupid for $2.47 to open (ref. 82):
+
+created $35mm XRT delta to buy // cust here playing for continued squeeze in the high SI names
+14:38:31 GOOGL & MSFT: Two huge bullish trades here in the last few minutes in mega-cap tech:
+
+GOOGL -- Citadel Securities cust bot 52,700 Sep 210 call for $3.89 to open (ref. 190.92)
+
+Cust spent $20.5mm in premo to buy these calls ahead of earnings tomorrow. Breakeven +12% ($213.89) and trade created $271.2M to buy
+
+MSFT -- Citadel Securities cust does the following (ref. 505.91):
+sold 12,000 Aug 510 call at $12.24 to close and bot 15,500 Nov 565 call for $7.74 to open
+
+Took $2.7mm off the table to restrike long calls to these 23-delta options. Bot these on a 20.5 IV (in the ~10th %ile of the last 1Y)
+Wednesday, July 23, 2025
+ALLIE BECHER
+07:31:40 Retail Detail - Daily Update for 7/23/25
+
+Overall Options Volume Percentile (1Y): 82%
+Options Volume vs 12m ADV: 1.15x
+Overall C/P Direction Ratio: 5% better to buy
+
+New names to Top 20 single stocks: RKT, KSS, COIN
+Names out of Top 20 single stocks: NVTS, QS, QBTS
+Top 20 Most Bullish: RKT, SMCI
+Top 20 Most Bearish: KSS, MARA
+
+Top Jumps in Single Stock Volume (vs 3m ADV): DNUT, REPL, GPRO, DHI, OPEN
+Top Jumps Most Bullish:  REPL, PM
+Top Jumps Most Bearish: SRPT, DHI
+BRIAN CONNORS
+07:49:15 Latest note from Scott Rubner on your email --> Global Market Intelligence (GMI) | August: FOMO Vibes
+
+Bottom Line: There is no change to my working equity market framework. I remain on watch for daily all-time highs, but more importantly I am on alert for a “blow-off” top led by the laggards. The pain trade remains higher.
+
+If you are not receiving this email and would like to please let me know.
+09:25:32 Two big themes to keep on the radar: (1) AI Summit makes a big day for SMH and (2) Mag7 earnings kick off with low implied moves + big bullish options flow.
+
+(1) Options market implying a big day for SMH -- Trump to deliver remarks at AI summit + expected to sign executive orders today. Semis options flow has taken a back seat to the meme/retail frenzy over last few sessions, but expect we see an uptick today on any headlines.
+
+SMH currently implying a ~1.4% move for today's session per our trading team, which is 2x larger than the abs avg move in SMH over the last 10 sessions.
+
+(2) GOOGL & TSLA earnings after the close, the first of Mag 7, and implied moves are well below recent realized earnings moves: GOOGL implying 5.5% vs 6.2% abs avg move on last 8 reports. TSLA implying 6.4% vs 10.7% abs avg move on last 8 reports....
+09:54:30 KWEB  Upside -- Citadel Securities cust bot 9,100 Oct 42/46 call spread for $0.55 to open (ref. 37.1)
+
+KWEB is up +10.5% in the past month, nearly reaching 1Y high post-September rally and post Deep-seek rally levels. This 13 delta call spread breaks even up another 14.7% and offers a 6.3x max payout.
+10:26:47 IWM Hedge -- Citadel Securities cust bot 10,000 Aug 200/210 put spread for $0.72 to open (ref. 224.72)
+
+Breaks even down 6.8% from current spot, and offers a 12.9x max payout.  In the past month IWM is up 6.2% outperforming SPY by 1.22%, finally seeing hedges after a long period of almost no hedges in the Index space.
+10:59:41 More China Upside printing here:
+
+KWEB -- Citadel Securities cust bot 22,300 Sep 38/40 call spread for $0.65 to open (ref. 37.05)
+Breakeven: +4.3% ($38.65)
+Premium paid: $1.4M
+Delta: 14%
+
+FXI -- Citadel Securities cust does the following (ref. 39.02):
+bot 4,000 Aug 39.5 call for $0.82 to open
+sold 6,000 Aug 41.5 call at $0.30 to open
+bot 2,000 Aug 44 call for $0.08 to open
+Premium paid: $164K
+Delta: 36%
+
+KWEB -- Citadel Securities cust does the following (ref. 37.06):
+bot 4,000 Aug 38.5 call for $0.73 to open
+sold 6,000 Aug 42 call at $0.195 to open...
+14:38:09 F Downside ahead of earnings  -- Aug 1st 11 puts bot up to $0.27 12,000x (ref.11.38)
+
+33 delta puts break even -5.71% from current spot.  Captures earnings on 07/30 implied move currently 6.21 a per bbg.
+14:49:00  MEME MANIA !! -- institutional customers dipping their toes across active retail names with high SI
+
+
+BBAI -- Citadel Securities cust bot 1,000 Aug 10 call for $0.50 to open (ref. 7.59)
+EOSE -- Citadel Securities cust bot 1,000 Aug1 8 call for $0.19 to open (ref. 6.01)
+IBRX -- Citadel Securities cust bot 2,000 Aug 3.5 call for $0.14 to open (ref. 2.89)
+SOUN -- Citadel Securities cust bot 1,000 Aug 16 call for $0.51 to open (ref. 11.96)
+QUBT -- Citadel Securities cust bot 500 Aug 20 call for $1.05 to open (ref. 17.06)
+OSCR -- Citadel Securities cust bot 1,000 Aug 19.5 call for $0.50 to open (ref. 15.29)
+Thursday, July 24, 2025
+ALLIE BECHER
+07:37:39 Retail Detail - Daily Update for 7/24/25
+
+Overall Options Volume Percentile (1Y): 85%
+Options Volume vs 12m ADV: 1.16x
+Overall C/P Direction Ratio: 1% better for sale
+
+New names to Top 20 single stocks: HIMS, DNUT, GPRO, GOOG
+Names out of Top 20 single stocks: KSS, GME, OSCR, SMCI
+Top 20 Most Bullish: MARA, GOOGL
+Top 20 Most Bearish: DNUT, HIMS
+
+Top Jumps in Single Stock Volume (vs 3m ADV): IQ, GPRO, DNUT, IOVA, TXN
+Top Jumps Most Bullish: IQ, DNN
+Top Jumps Most Bearish: DNUT, GPRO
+BRIAN CONNORS
+09:27:54 uick thoughts from our Macro Vol team into the opening bell:
+
+* Initial jobless claims even lower than expectations at 217k and now basically back to levels we saw at the start of the year -- there are (still) no obvious signs of imminent labor market weakening and one could argue there never really were.
+
+* In our opinion, the narrative has flipped and will now be CPI driven rather than NFP in relative terms. Risk on continues until inflation and/or external shocks arise such that uncertainty warrants a more cautious approach.
+
+* Main thing today is Trump's visit to the Fed which will take place after the close. We are approaching this more from the perspective of validating that the market really doesn't care about these headlines in a meaningfully way anymore - not if they ...
+09:58:33  AMZN -- Lot of interest in short-term upside to lean into outperformance + capture next round of earnings this morning:
+
+* AMZN -- Citadel Securities cust bot 6,000 Aug 240 call up to $4.50 to open (ref. 230.46)
+* AMZN -- Citadel Securities cust bot 2,700 Aug1 245 call for $2.72 to open (ref. 233.27)
+* AMZN -- Citadel Securities cust bot 1,500 Aug1 250 call for $1.34 to open (ref. 233.34)
+* AMZN -- Citadel Securities cust bot 2,000 Aug1 240 call for $3.66 to open (ref. 231.57)
+
+AMZN reports on 7/31, current implied move is 5.3%. These trades targeting moves up 5-8%.
+10:03:59 AAL upside post disappointing LUV earnings-- AAL reports post close TODAY
+
+AAL -- Citadel Securities cust bot 15,300 Sep 13 call for $0.34 to open (ref. 11.68)
+Breakeven: +14.2% ($13.34)
+Premium paid: $523.3K
+Delta: 30%
+10:08:20 Continue to see demand for China upside tails:
+
+ASHR -- Citadel Securities cust bot 8,000 Aug1 30 call for $0.14 to open (ref. 29.24)
+Breakeven: +3.1% ($30.14)
+Premium paid: $112K
+Delta: 24%
+12:24:30 Large IWM downside roll in the market:
+
+IWM sold 46601x Aug 1st 216 puts to buy 30695x Aug 29th 220 puts  -- paid $8.49m
+
+
+creates roughly $80mm delta to sale and $433k vega to buy
+
+The aug 1st puts were bot for 3.09 back on 07/07 (sold at 0.65 today)
+Friday, July 25, 2025
+ALLIE BECHER
+07:37:41 Retail Detail - Daily Update for 7/25/25
+
+Overall Options Volume Percentile (1Y): 90%
+Options Volume vs 12m ADV: 1.21x
+Overall C/P Direction Ratio: 6% better to buy
+
+New names to Top 20 single stocks: INTC, AAL, META, CMG, OKLO, SMCI, MSFT
+Names out of Top 20 single stocks: HIMS, RKT, NIO, DNUT, GPRO, LCID, COIN
+Top 20 Most Bullish: AAL, CMG
+Top 20 Most Bearish: OKLO, AMZN
+
+Top Jumps in Single Stock Volume (vs 3m ADV):  BMNR, UNIT, AEO, HON, MVIS
+Top Jumps Most Bullish:  UNIT, CNC
+Top Jumps Most Bearish:  MVIS, BE
+09:15:22 Retail's Big Bullish Streak: Where are we now?
+
+Today is set to round out the 13th consecutive week of bullish retail sentiment in options, one of the longest bullish streaks we have ever seen.
+
+Meme stocks with high short interest and high vol continue to dominate retail demand -- Our So Hot Right Now names this week (the largest jumps in volume) have an average short interest of 15% and an average 30d realized vol of 109.
+
+This retail demand has helped to drive outperformance -- The SHRN names have an avg WTD return of +9% (vs SPY +1%) and demand for calls on the rally has inverted skew in 11 of the 20 names. Standout volume spikes include KSS, GLXY, IOVA, & GPRO.
+
+General retail options volume is also running much higher than average. So far this week, vol...
+09:46:19 KWEB -- Kicking off another day of short-term China Internet upside buying...
+
+10,000x KWEB Aug1st 38 call bot up to $0.18 to open (ref 36.05)
+
+These calls pay 5.5x max on a retest of the 52-wk highs by next Friday. KWEB Call OI is now 62% off the June lows.
+10:13:33 TSLA -- Big 0DTE flow standout from the first 40 mins of the day:
+
+TSLA options are much more active than usual to start the day and nearly 70% of total options volume is 0DTE, expiring by the 4pm bell.
+
+Calls are leading flow as stock breaks out to the highs of the morning with options traders playing for a continued rally -- TSLA Jul25th 315, 312.5 and 310 calls are the most active lines, each trading >60,000x contracts so far and OPENING.
+
+The TSLA Jul25th 315 calls are one to watch with currently 78k ctx on the tape and 38 delta. This line has traded from $0.78 at around 9:50 am to the current ~$1.6 level with stock just shy of the morning's highs.
+13:03:52 TMT Aug1st Vol Buyers -- Two interesting trades here in the last few mins:
+
+PLTR -- Citadel Securities cust bot 1,500 Aug1st 155/165 strangle for $3.47 (ref. 159.72)
+
+SMCI -- Citadel Securities cust bot 3,100 Aug1st 52/56 strangle for $1.80 to open (ref. 53.4)
+
+A ton of eco catalysts on the calendar next week (US GDP/jobs/PCE, tariff deadline, FOMC) but perhaps more relevant for these two is the massive amount of tech earnings reporting.
+
+1/3 of XLK constituents by weight report earnings next week. XLK option are currently pricing in a 2% move for next week, slightly larger than the 1.7% abs avg realized move of the last 8wks.
+13:22:11 MRK -- Citadel Securities cust bot 20,000 Aug 95 call for $0.245 to open (ref. 84.58)
+
+Breakeven: +12.6% ($95.25)
+Premium paid: $492.2K
+Delta: 8%
+$ Delta: $13.4M to buy
+
+Earnings Tuesday morning.
+14:22:04 EWZ -- Citadel Securities cust bot 59,000 Aug1st 27.5 call for $0.16 to open (ref. 26.93)
+
+Playing for a ~3% rally by the end of next week on positive tariff news. These calls pay 10x on a retest of the July highs.
+14:49:20 PCG -- Citadel Securities cust does the following (ref. 14.06):
+
+sold 15,000 Aug 13 put at $0.165 to open
+bot 15,000 Sep 18 call for $0.16 to close
+sold 15,000 Sep 20 call at $0.055 to open
+
+Cust getting more bullish in to the end of the legislative session on September 12th. They were short the 18 calls vs. Long stock and rolling up the short calls.
+Monday, July 28, 2025
+ALLIE BECHER
+07:32:44 Retail Detail - Daily Update for 7/28/25
+
+Overall Options Volume Percentile (1Y): 97%
+Options Volume vs 12m ADV: 1.30x
+Overall C/P Direction Ratio: 2% better to buy
+
+New names to Top 20 single stocks: HIMS, RIVN, COIN
+Names out of Top 20 single stocks: AAL, CMG, OKLO
+Top 20 Most Bullish: INTC, SOFI
+Top 20 Most Bearish: HOOD, PLTR
+
+Top Jumps in Single Stock Volume (vs 3m ADV): CHTR, BMNR, COUR, NLY, AEO
+Top Jumps Most Bullish: GPRO, NLY
+Top Jumps Most Bearish: KMI, BMNR
+BRIAN CONNORS
+09:57:45  ASHR (local China listed) upside:
+ASHR Aug25 28.5 Calls bot 7500x to open for 0.85 ref 29
+
+ASHR is up 9.6% YTD while KWEB and FXI are up 23.6% and 26.5% respectively
+13:59:36 Tariff resolution plays -- Variety of short-term upside bets in global ETFs this afternoon to play for resolution of tariff negotiations over the next few weeks...
+
+* EWG (Germany) -- Citadel Securities cust bot 4,000 Aug 44 call for $0.10 to open (ref. 41.63)
+
+* EWY (South Korea) -- Citadel Securities cust bot 2,000 Aug 76 call for $0.73 to open (ref. 72.84)
+
+Continues theme kicked off on Friday with a massive wave of EWZ (Brazil) call buying. Most interestingly, Citadel Securities cust bot 59,000 EWZ Aug1st 27.5 calls.
+14:36:05 GLOBAL TRADING HOURS NOW AT CITADEL SECURITIES:
+
+Citadel Securities is now providing agency execution in SPX, VIX, and XSP options from 7:00 - 9:25 am (ET).
+
+Please let us know if you would like to be enabled.
+Tuesday, July 29, 2025
+ALLIE BECHER
+07:35:35 Retail Detail - Daily Update for 7/29/25
+
+Overall Options Volume Percentile (1Y): 55%
+Options Volume vs 12m ADV: 1.01x
+Overall C/P Direction Ratio: 8% better to buy
+
+New names to Top 20 single stocks: GME, IOT, UNH
+Names out of Top 20 single stocks: HIMS, MSFT, RIVN
+Top 20 Most Bullish: IOT, COIN
+Top 20 Most Bearish: SMCI, INTC
+
+Top Jumps in Single Stock Volume (vs 3m ADV): IOT, BMNR, SQNS, AEO, RILY
+Top Jumps Most Bullish: SQNS, IOT
+Top Jumps Most Bearish: M, CIFR
+BRIAN CONNORS
+09:16:29 Quick notes into the opening bell as close-to-close realized vol in SPX is now at the lowest levels since 2019:
+
+* The number of consecutive sessions without a >1% SPX absolute move is now up to 23. We've also had 4 days with <10bps move in the last 2 weeks.
+
+* The consensus of some near term downside starting 1m fwd is extremely pronounced with skews very steep in SPX -- 25-delta puts are in the >80th percentile starting 2w out and 95th percentile 6m out.
+
+* Our Macro Vol Analyst team notes that most discretionary positioning is hovering at the 20th percentile vs most CTA/risk parity/retail/opts positioning at 70th percentile -- The disconnect between narrative and price action and the overfitting of opinions is starting to reach a breaking point and feels like this will need to be resolved in some direction...
+09:21:12 Retail names to watch-- Methodology: Top 150 most traded retail names on our platform the day prior, selects the top names with highest retail option volume/market cap ratio and identifies SI as % of equity float, and total market outsized option volume vs 20d avg.
+09:21:34 
+image.png 132 KB 
+09:45:00 EWZ -- Citadel Securities cust sold 59,000 Aug1 27.5 call at $0.08 to close (ref. 26.63).
+
+Throwing in towel on a tariff deadline play.
+10:47:14 FEZ -- Citadel Securities cust is adding convexity and does the following (ref. 59.42):
+bot 6,000 Aug 61 call for $0.30 to open
+bot 6,000 Aug 62 call for $0.09 to open
+Premium paid: $234K
+Delta: 32%
+11:51:40 *US, CHINA AGREE TO EXTEND TRADE TRUCE: LI
+
+LI: BOTH SIDES WILL CONTINUE TO PUSH FORWARD EXTENSION OF PAUSE OF RECIPROCAL TARIFFS AS WELL AS CHINESE COUNTERMEASURES
+12:30:49 QQQ -- Citadel Securities cust rolling up a hedge ahead of a huge earnings wave (ref. 567.83):
+
+sold 15,000 Aug8th 550 put at $1.19 to close
+bot 15,000 Aug8th 560 put for $2.76 to open
+
+Biggest QQQ constituents to report by Aug8th expiry include MSFT (8.8% weight on 7/30), AAPL (7.3% weight on 7/31), AMZN (5.7% weight on 7/31), META (3.6% weight on 7/30), PLTR (2% weight on 8/4) and AMD (1.6% weight on 8/6)
+Wednesday, July 30, 2025
+ALLIE BECHER
+07:24:13 Retail Detail - Daily Update for 7/30/25
+
+Overall Options Volume Percentile (1Y): 76%
+Options Volume vs 12m ADV: 1.10x
+Overall C/P Direction Ratio: 7% better to buy
+
+New names to Top 20 single stocks: PYPL, BULL, NVO
+Names out of Top 20 single stocks: META, IOT, COIN
+Top 20 Most Bullish: NVO, PYPL
+Top 20 Most Bearish: GOOG, GOOGL
+
+Top Jumps in Single Stock Volume (vs 3m ADV): BMNR, ATYR, NVO, CLS, IOT
+Top Jumps Most Bullish: NVO, SQNS
+Top Jumps Most Bearish: VALE, CIFR
+08:29:04 Summer Slowdown vs Catalyst Super Bowl:
+
+We are in the midst of one of the busiest calendar weeks of the year, but despite QRA/GDP/PCE momentarily + FOMC later today + NFP Friday + 20% of SPX reporting earnings in the next two days, the current zero-vol state of the equity market feels much more "summer slowdown" than "catalyst Super Bowl".
+
+VIX had its lowest tick since Jan yday, SPX 5-day realized vol is now <5, and we've now seen 24th consecutive session of a <1% move in SPX -- This is somewhat of an anomaly, only seen two previous times since the start of 2020: Sep-Oct 2024 (29 sessions) and Oct-Nov 2021 (29 sessions).
+
+While general options activity also leans "slowdown" (market-wide ADV this week is 11% below the 2025 YTD avg) there are a handful of interesting pockets of the market where activity is running hot:...

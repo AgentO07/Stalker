@@ -1,0 +1,732 @@
+
+ {QT} TRADE 96mm SPX Dec31 Combo (6401 live) 125.20 // 35.75 basis
+12:00:09 We even get sellers of this!
+SPX jun31 16000 Call Flex vs 6409 11/17 2d
+S LEVIN
+14:35:47 Any takers on this?
+TOM JARCK
+14:36:26 yes trade 12, now showin 11 bid.
+14:36:40 Small 25 sold @12
+14:38:35 I just got the green light to add you to our shows. I am going to dump the days shows in in here now
+14:38:55 Jun call were MM  .vs Bank
+S LEVIN
+14:39:32 surreal
+TOM JARCK
+14:42:35 Here you go!
+
+09:28:59
+SPY aug 620 euroflex rc 1.86/1.93 c+
+SPY aug29th 630 euroflex rc 3.08/3.15 c+
+SPY sep12th 630 euroflex rc 4.11/4.21 c+
+
+IWM aug 200 rc 0.55/0.60 c+
+IWM aug 220 euroflex rc 0.60/0.66 c+
+IWM aug29th 220 euroflex rc 1.00/1.06 c+
+
+QQQ aug 535 rc 1.53/1.63 c+
+QQQ sep 535 rc 3.80/4.00 c+
+09:30:12
+AAPL Aug 210 euroflex rc 0.375/0.415 c+
+AMD Aug 160 euroflex rc 0.485/0.515 c+
+AMZN Aug 230 euroflex rc 0.70/.74 c+
+AVGO Aug 280 euroflex rc 0.855/.90 c+
+GOOG Aug 190 euroflex rc 0.575/0.61 c+
+GOOGL Aug 190 euroflex rc 0.575/0.61 c+...
+14:44:15 SPX Dec30 Combo (6411 live) 120.13/120.19
+14:44:32 I have you added to all going forward.
+14:48:30 SPX Dec30 Combo (6411 live) 120.15/120.20
+14:55:01 SPX Dec30 Combo (6411 live) 120.15/120.195
+15:02:07 SPX Dec30 Combo (6411 live) 120.17/120.195
+15:12:35 {QT} TRADE 50mm SPX Dec30 Combo (6411 live) 120.23
+15:24:08 RTY Dec27 120% Call DP 8.30/8.70   42d
+15:34:00 SPX Dec30 6400.01 Strd Flex vs 6412 2280/2305 47d
+15:35:55 * Color NDX Dec26 combo trades ~105.48% vs 23389f 100mm
+15:40:24 SPX Dec30 6400.01 Strd Flex vs 6412 2280/2300 47d
+15:49:57 SPX Dec30 6400.01 Strd Flex vs 6412 2282/2295 47d
+S LEVIN
+16:10:01 @Tom Jarck Dec30 ^ - did that trade?
+TOM JARCK
+16:10:59 yes
+16:11:03 2290
+S LEVIN
+16:11:31 Initiator bot?
+TOM JARCK
+16:11:39 seller
+S LEVIN
+16:11:50 Cool, thank you
+16:12:06 I need to integrate your chat into my parser
+TOM JARCK
+16:12:06 yes....still working out the dets
+16:14:15 Screens were 2300 mid (not that they matter much)  2 banks bough 2 sold....flow desk buyers Exo sellers
+16:59:53 just finished updated. I have you on all my notifcation. I left off Single stocks, Single stock Rev/Cons. Also took you off the ETF rev Con list.
+Friday, July 25, 2025
+TOM JARCK
+08:18:06 Good morning. Question for you. we have a broker here that does SPX listed flows only. He sends interest blasts on behalf of the team here. With your permission I will add him to this chat and then you will also see all the listed flows as well. Anything non-FLEX, Non-Boxes he will send out.
+S LEVIN
+08:18:21 That would be awesome
+TOM JARCK
+08:20:44 Cool
+08:29:00 Also send me the basic highlights of trading system. All-in-one Equities, Futures, Options, options on futures.
+08:33:15 *** TOM JARCK (MAGEN FINANCIAL LLC) invited ALEXANDRE ELBAZ (MAGEN FINANCIAL LLC)
+TOM JARCK
+08:33:23 Serge-Meet Alexandre. I discussed everything with him, he will send over the SPX Listed interests. He is VERY busy in the SPX complex and it VERY good at it. (that coming from former SPX trader!!!) At some point we can get together for a face-to-face. -Tom
+ALEXANDRE ELBAZ
+08:33:29 Good morning!!
+08:34:23 Glad to meet you sir! Tom mentionned you were gonna start looking at index listed options, we trade a decent amount on a day to day basis. To give you an idea, here is the recap of the trades from yesterday :
+
+Magen SPX Listed Recap 07-24-25
+
+10x TRADES 74.00 SPX Dec 5700/6300 6x1 Put Stupid vs Dec 6150 Puts 5x tied to 6401
+175x TRADES 1.70 SPX July25th 6300 6250 ps Live
+100x TRADES 37.80 SPX aug1st 6350 Puts tied to 6404
+300x TRADES 10.00 SPX Dec26 7700 / Jun27 8200 CS tied to 6407
+200x TRADES 197.00 SPX Mar 6500/7000 1x1.25 CS tied to 6400
+150x TRADES .80 SPX july25th 6300/6425 1x1.5 RR tied to 6404
+75x TRADES 385.60 SPX Jun27 6200 Put vs 6410
+50x TRADES 290.55 SPX Jul26 6350/6850 cs tied to 6408
+3000x TRADES 6.10 SPX Dec26 1600 put tie...
+TOM JARCK
+09:04:30 Serge...I will be off for a bit this morning. Will pick-up the shows on non -SPX  when I get back....
+11:50:35 SPX Dec25/Dec27 Combo (6411 live) 6.42/6.49
+11:51:42 SPX Dec29 6001/Dec31 6401 Strd swap flex live 382/418
+12:05:50 SPX Dec29 6001/Dec31 6401 Strd swap flex live 385/415
+12:11:11 AXWZ8: 87.5/89  vs Z7 80
+12:17:08 SPX dec30 BOX 803/806.50
+12:19:11 XLF Oct25 49/Jan26 46 ps vs 53.26 3d  0.12 bid 3k
+12:20:50 HYG Sep 80 calls .67 bid 500x live  80.49 ref
+12:23:28 SPX Dec29 6001/Dec31 6401 Strd swap flex live 385/410
+12:23:43 XLF Oct25 49/Jan26 46 ps vs 53.26 3d  0.13 bid 3k
+ALEXANDRE ELBAZ
+12:23:47 COLOR : SPX cashy tied 6413
+
+Oct 6700 call 5k
+feb 3000 put 15k
+vs
+oct 7000 call 5k
+feb 3900 put 10k
+
+with 1000 combos paper sld @ 14.18 mil
+TOM JARCK
+12:25:56 SPX Dec30 Combo (6409 live) 120.05/120.35
+12:28:58 XLF Oct25 49/Jan26 46 ps vs 53.26 3d  0.14 bid 3k
+12:29:46 SPX Dec30 Combo (6409 live) 120.05/120.28
+12:45:30 SPX Dec26 combo (l6421 ive) 104.65 bid
+12:47:16 SPX Dec31 105% Strd DP 49.30/50.30
+12:55:52 SPX Dec26 combo (6421 ive) 104.67/104.73
+12:56:10 AXWZ8: 87.5/89  vs Z7 80
+12:56:41 Color AXWZ5 trades 56.5 2k
+ALEXANDRE ELBAZ
+12:57:48 SPX Oct31st 6000/6650 RR tied to 6423 4.70/5.00 53d Call over seller 400x
+12:58:55 SPX Oct31st 6000/6650 RR tied to 6423 4.70/4.90 53d Call over seller 400x
+13:00:46 SPX Oct31st 6000/6650 RR tied to 6423 4.70/4.80 53d Call over seller 400x
+TOM JARCK
+13:03:15 SPX Dec31 105% Strd DP 49.50/50.30
+ALEXANDRE ELBAZ
+13:03:40 SPX Oct31st 6000/6650 RR tied to 6423 4.75/4.80 53d Call over seller 400x
+13:04:46 TRADES 4.75 SPX Oct31st 6000/6650 RR tied to 6423
+TOM JARCK
+13:05:48 AXWZ8: 88.5b vs Z7 81.5
+13:09:07 AXWZ8: 88.5/91.5 vs Z7 81.5
+13:19:03 SPX Dec26 combo (6421 live) 104.70/104.72
+13:26:23 SPY aug08th 610 rc 1.07/1.13 c+
+13:36:24 AXWH6 72/73 vs Z5 51
+ALEXANDRE ELBAZ
+13:38:47 SPX Aug29th 6150/6600 RR vs Jan 6000/7000 RR tied to 6426 59.80/60.30  5dp buyer 300x
+TOM JARCK
+13:39:50 SPX dec29 Combo (6428 live)  115.30/115.75
+ALEXANDRE ELBAZ
+13:40:57 SPX Aug29th 6150/6600 RR vs Jan 6000/7000 RR tied to 6426 59.90/60.20  5dp buyer 300x
+13:41:48 SPX Aug29th 6150/6600 RR vs Jan 6000/7000 RR tied to 6426 60.00/60.20  5dp buyer 300x
+13:46:03 SPX Aug29th 6150/6600 RR vs Jan 6000/7000 RR tied to 6426 60.00/60.15  5dp buyer 300x
+TOM JARCK
+13:49:09 SPX Dec29 Combo (6428 live) 115.425/115.60
+ALEXANDRE ELBAZ
+13:51:48 TRADES 60.20 SPX Aug29th 6150/6600 RR vs Jan 6000/7000 RR tied to 6426
+TOM JARCK
+13:52:41 SPX Dec27/Dec28 Combo (6412 live) 3.54/3.585
+13:56:08 SPX Dec27/Dec28 Combo (6412 live) 3.54/3.565
+13:56:52 SPX Jun26 Combo (6428 live) 103.15/103.195
+13:58:33 SPX Jun26 Combo (6428 live) 103.17/103.195
+14:00:53 Serge:   Find this interesting:
+ETPs impact on today's VIX Futures positions:7/25/2025 14:001st Fut2nd FutFutures PositionsT+194,66244,547Today101,66639,537VIX FuturesChange(7,004)5,010Click to view full table
+14:09:12  SPX Dec30 atm Strd DP 44.30/44.85
+14:13:33  AXWH6 trades 72.5 vs Z5 51 500x COLOR (CAN BUY 500x)
+14:14:53 QQQ aug 540 rc 1.41/1.50 c+
+14:32:51 SPX Dec30 atm Strd DP 44.40/44.80
+14:35:48 SPX Dec30 atm Strd DP 44.50/44.80
+14:41:32 {qt}AXWH6 TRADES 72.5 vs Z5 51
+14:42:28 AXWH6 TRADES 72.5 vs Z5 51
+14:45:49 SPX Dec27/Dec28 Combo (6412 live) 3.525/3.56
+14:51:00 SPX Dec30 atm Strd DP 44.50/44.75
+14:51:16 SPX Dec30 atm Strd DP 44.60/44.70
+15:06:41 SPX Dec30 atm Strd DP 44.60/44.65
+ALEXANDRE ELBAZ
+15:24:52 SPX oct 6200 6450 6600 1x1.75x1 put fly tied to 6429 46.30/46.50 8d seller 300x
+15:25:25 SPX oct 6200 6450 6600 1x1.75x1 put fly tied to 6429 46.30/46.40 8d seller 300x
+TOM JARCK
+15:28:06 SPX Dec box  982.00/982.20 offered 500x
+15:30:04 Color:  SPX Dec26 combo trades 104.705% vs 6402f 200mm
+SPX Dec26 Combo (6402 live)  /104.71
+15:30:29 QQQ aug 540 rc 1.42/1.48 c+
+15:32:36 
+{QT} TRADE 10k SPY aug1st 610 rc 0.525 C+ (CAN REVERSE MORE)
+SPY aug1st 610 rc 0.525/0.54 c+
+15:35:21 {QT} TRADE 50mm SPX Dec30 atm Strd DP 44.65
+ALEXANDRE ELBAZ
+15:36:01 SPX jul30th 6300 6400 ps 1.5x1 vs aug1st 6250 6400 ps 1.5x1 tied to 6428 9.20/9.40 2dc  buyer 500x
+15:36:56 SPX jul30th 6300 6400 ps 1.5x1 vs aug1st 6250 6400 ps 1.5x1 tied to 6428 9.30/9.40 2dc  buyer 500x
+15:38:06 SPX jul30th 6300 6400 ps 1.5x1 vs aug1st 6250 6400 ps 1.5x1 tied to 6428 9.35/9.40 2dc  buyer 500x
+15:41:57 TRADES 9.40 SPX jul30th 6300 6400 ps 1.5x1 vs aug1st 6250 6400 ps 1.5x1 tied to 6428
+TOM JARCK
+15:52:40 SPX Jun26 Combo (6429 live) 103.18/103.1925
+ALEXANDRE ELBAZ
+15:53:54 SPX oct 6200 6450 6600 1x1.75x1 put fly tied to 6429 46.30/46.40 8d seller 300x
+TOM JARCK
+16:02:39 SPX Jun26 Combo (6429 live) 103.185/103.1925
+16:07:13  {QT} TRADE 25mm SPX Dec30 Combo (6422f live) 120.13
+16:10:50 SPX Jun26 Combo (6429 live) 103.185/103.19
+IOC 250mm UP
+ALEXANDRE ELBAZ
+16:16:22 {QT} MAGEN SPX LISTED RECAP OF THE DAY 7/25/2025
+
+100x TRADES 1.80 SPX Today 6350/6300 1x2 PS Live
+100x TRADES 2.10 SPX July30th 6200 / AugPM 5400 ps 1x2 tied to 6405
+140x TRADES 257.60 SPX July26 6400/6850 cs tied to 6408
+45x TRADES 138.60 SPX July2026 6800/7150 CS tied to 6410
+200x TRADES 105.10 SPX Jan 6400/5900 PS tied to 6408
+50x TRADES 189.50 SPX Dec26 7300 Calls tied to 6406
+150x TRADES 23.50 SPX Jun26 3500/7500 RR tied to 6406
+100x TRADES 355.30 SPX Nov28th 5700 / June30th 6700 ps tied to 6412
+60x TRADES .70 SPX 5aug 6490 6500 1x1.3 CS tied to 6423
+100x TRADES 16.15 SPX Aug1st 6300 put tied to 6421
+120x TRADES 25.05 SPX aug 6500 calls tied to 6422
+350x TRADES 4.75 SPX Oct31st 6000/6650 RR tied to 6423...
+Monday, July 28, 2025
+ALEXANDRE ELBAZ
+07:58:03 GOOD MORNING!
+
+Magen SPX Listed Recap 07-25-25
+
+100x TRADES 1.80 SPX Today 6350/6300 1x2 PS Live
+100x TRADES 2.10 SPX July30th 6200 / AugPM 5400 ps 1x2 tied to 6405
+140x TRADES 257.60 SPX July26 6400/6850 cs tied to 6408
+45x TRADES 138.60 SPX July2026 6800/7150 CS tied to 6410
+200x TRADES 105.10 SPX Jan 6400/5900 PS tied to 6408
+50x TRADES 189.50 SPX Dec26 7300 Calls tied to 6406
+150x TRADES 23.50 SPX Jun26 3500/7500 RR tied to 6406
+100x TRADES 355.30 SPX Nov28th 5700 / June30th 6700 ps tied to 6412
+60x TRADES .70 SPX 5aug 6490 6500 1x1.3 CS tied to 6423
+100x TRADES 16.15 SPX Aug1st 6300 put tied to 6421
+120x TRADES 25.05 SPX aug 6500 calls tie...
+TOM JARCK
+08:15:31 Good Morning!
+
+07/25/25 AIR BTIC TRF RECAP:
+
+AXWQ5 traded 48 250x
+AXWU5 traded 49 250x
+AXWU5 traded 50 vs V5 52.5 2500x
+AXWZ5 traded 55 vs U5 50 4250x
+AXWZ5 traded 56.5 2000x
+AXWF6 traded 73 vs Z5 51 500x
+AXWF6 traded 72.5 vs Z5 51 250x
+AXWH6 traded 72 vs Z5 51 1750x
+AXWH6 traded 72.5 vs Z5 51 1500x
+AXWM6 traded 73.5 vs Z5 54 1000x
+AXWZ6 traded 74 vs U5 55 250x
+AXWZ8 traded 88.5 vs Z6 72 500x
+AXWZ0 traded 105 250x
+09:25:08 
+QQQ aug 540 rc
+QQQ sep 540 rc
+
+IWM aug 210 rc
+IWM sep 230 rc
+09:38:11 AXWZ8 87.5/92.5 vs Z7 81.5
+09:39:37 SPY Aug1st 610 rc 0.40/0.50 c+
+09:45:37 
+AXWZ8 87.5/92 vs Z7 81.5
+09:45:49 SPX Dec31 Combo (6426 live) 125.00/125.50
+09:48:09 AXWH6 71.5/76 vs Z5 54
+09:48:45 AXWZ9 96 bid vs Z8 92
+ALEXANDRE ELBAZ
+09:52:14 SPX aug 6400 6500 6600 1x2x1.5 call fly tied to 6427 28.30/28.70 12d buyer 300x
+09:52:57 SPX aug 6400 6500 6600 1x2x1.5 call fly tied to 6427 28.40/28.60 12d buyer 300x
+TOM JARCK
+09:53:42 SPX Jun26 Combo (6428 live) 103.14/103.19
+ALEXANDRE ELBAZ
+09:53:45 SPX aug 6400 6500 6600 1x2x1.5 call fly tied to 6427 28.50/28.60 12d buyer 300x
+TOM JARCK
+09:55:30 
+AXWZ8 /91 vs Z6 73.5
+AXWZ9: 97/100 vs Z8 92
+09:55:45 SPX Jun26 Combo (6428 live) 103.15/103.19
+09:56:46 SPX August Box 997.50/997.55
+ALEXANDRE ELBAZ
+09:57:09 TRADES 28.50 SPX aug 6400 6500 6600 1x2x1.5 call fly tied to 6427
+TOM JARCK
+09:59:55 SPX dec30 120 Strd DP 39.50/40.50
+10:00:58 
+AXWH6: 71.5/76 vs Z5 54
+AXWZ8: /91 offer vs Z6 73.5
+AXWZ8: 87.5/92 vs Z7 81.5
+AXWZ9: /97 offer vs Z8 88.5
+10:03:04 SPX dec30 120 Strd DP 39.50/40.35
+ALEXANDRE ELBAZ
+10:09:27 SPX sep 5200 dec 4500 ps Live 10.00/10.30 seller 300x
+10:10:06 SPX sep 5200 dec 4500 ps Live 10.10/10.25 seller 300x
+10:11:10 SPX sep 5200 dec 4500 ps Live 10.10/10.20 seller 300x
+TOM JARCK
+10:11:23 DIVS!    ASDZ26 78.30/78.70
+ALEXANDRE ELBAZ
+10:11:41 SPX sep 5200 dec 4500 ps Live 10.15/10.20 seller 300x
+TOM JARCK
+10:11:52 AXWZ6 70/74 vs Z5 55
+10:13:58 AXW interests:
+
+AXWH6: 71.5/75.5 vs Z5 54
+AXWZ6: 70/74 vs Z5 55
+AXWZ8: /91 offer vs Z6 73.5
+AXWZ8: 87.5/92 vs Z7 81.5
+AXWZ9: /97 offer vs Z8 88.5
+10:14:26 
+SPX Dec31 Combo (6426 live) 125.00/125.50
+ALEXANDRE ELBAZ
+10:15:12 TRADES 10.20 SPX sep 5200 dec 4500 ps
+TOM JARCK
+10:18:08 SPX Dec29 6001/Dec31 6401 Strd swap flex live 390/405
+10:25:01 
+
+SPY august1st 610 rc 0.42/0.49 c+
+SPY sep05th 610 rc 3.07/3.14 c+
+SPY sep12th 630 euroflex rc 3.82/3.99 c+
+
+QQQ aug 540 rc 1.34/1.42
+QQQ sep 540 rc 3.62/3.79
+
+IWM aug 210 rc 0.48/0.53 c+
+IWM sep 230 rc 0.92/0.97 c+
+10:25:38 SPX dec30 120 Strd DP 39.65/40.15
+10:26:45 RTY Dec27 2301 Straddle Flex vs 2271 571.00/584.00  26d
+10:27:37 
+SPX Dec28 Combo (6432 live) 111.39/111.50
+SPX Dec31 Combo (6426 live) 125.00/125.50
+10:27:58 RTY Dec27 Combo (2267f, live) 107.25/107.50
+10:31:50 RTY Dec27 Combo (2267f, live) 107.25/107.47
+10:32:07 RTY Dec27 2301 Straddle Flex vs 2271 571.00/582.00  26d
+10:34:28 SPX Dec28 Combo (6432 live) 111.41/111.48
+10:53:47 AXWZ9: 97.5 bid vs Z6 73.5
+10:55:27 SPX Nov BOX 985.45/985.70 buyer
+10:55:47  SPX Dec26/Dec27 Combo (6427 live) 3.12/3.22
+10:58:50 SPX Dec26/Dec27 Combo (6427 live) 3.12/3.22
+10:59:45 
+QQQ aug 540 rc 1.34/1.39
+SPY sep12th 630 euroflex rc 3.84/3.97 c+
+11:00:05 SPX dec30 120 Strd DP 39.65/40.10
+11:00:49 AXW Interests Summary:
+
+AXWH6: 71.5/75.5 vs Z5 54
+AXWZ6: 70/74 vs Z5 55
+AXWZ8: /91 offer vs Z6 73.5
+AXWZ8: 87.5/92 vs Z7 81.5
+AXWZ9: 97.5 bid vs Z6 73.5 (traded there, can buy)
+AXWZ9: /97 offer vs Z8 88.5
+11:01:23 Serge! Good weekend? Any Questions?
+11:02:19 @S Levin Good weekend? Any Questions?
+11:12:22 SPX dec30 120 Strd DP 39.65/40.05
+11:12:36 Color SPX Aug box 997.53 traded 400x
+11:13:13 
+XLF aug/sep 52 euroflex jr 0.23/0.245
+XLF sep 52 euroflex rc 0.36/0.385 c+
+11:14:34 QQQ aug 540 rc 1.34/1.38 c+
+11:15:48  SPX Nov BOX 985.50/985.70
+11:17:47 SPX Dec31 Combo (6426 live) 125.05/125.50
+11:21:53 SPX Box Nov 985.45/985.60
+11:23:48 SPX Nov 985.50/985.55
+11:24:20 Color SPX Dec27 Combo (6433 live) trades 107.87
+11:26:03 SPX July28th/Aug29th 6450 roll 21.00/21.10
+11:26:49 SPX Nov box 985.50/985.53
+11:29:59 SPX Nov box trades 985.53, still bid
+11:49:43 SPX Dec31 Combo (6426 live) 125.15/125.50
+11:51:31 SPX Dec27/Dec28 Combo (6433 live) 3.55/3.62
+11:56:36 AXWZ6: 70/74 vs Z5 55
+11:56:55 AXWZ6: 71/74 vs Z5 55
+11:57:11 SPX Dec27/Dec28 Combo (6433 live) 3.56/3.62
+12:20:15 SPY sep12th 630 euroflex rc 3.86/3.97 c+
+12:22:28 SPX Dec27/Dec28 Combo (6433 live) 3.57/3.61
+12:25:24 AXWZ9: 97.5/99.5 vs Z6 73.5
+12:31:47 SPX Dec27/Dec28 Combo (6433 live) 3.58/3.61
+12:36:09 SPX Dec27/Dec28 Combo (6433 live) 3.58/3.60
+12:48:40 SPX Dec30 9000.01/12000.01 CS 1x2 flex vs 6428 20d  370/395
+12:49:05 SPX Dec30 9000.01/12000.01 CS 1x2 flex vs 6428 20d  370/393
+12:53:45 
+SPX Dec27/Dec28 Combo (6433 live) 3.585/3.595
+12:56:33 SPX Dec29 6001/Dec31 6401 Strd swap flex live 395/405
+13:00:32 SPX Dec29 6001/Dec31 6401 Strd swap flex live 395/402
+13:01:30 SPX Dec27/Dec28 Combo (6433 live) 3.585/3.59
+13:02:59 *** This post was removed ***
+13:03:15 *** TOM JARCK (MAGEN FINANCIAL LLC) removed a post from 13:02:59
+TOM JARCK
+13:05:43 SPX Dec29 6001/Dec31 6401 Strd swap flex live 395/401
+ALEXANDRE ELBAZ
+13:07:50 SPX July2026 5000 / 5500 / 6300 / 6700 Put Condor vs 6424 9d 80.00/80.40 seller 200x
+13:08:21 SPX July2026 5000 / 5500 / 6300 / 6700 Put Condor vs 6424 9d 80.10/80.40 seller 200x
+TOM JARCK
+13:23:00 {QT} SPX Dec27/Dec28 Combo (6433 live) TRADES 3.585
+13:29:49 SPX Dec29 6001/Dec31 6401 Strd swap flex live 395/400
+13:33:32 SPX Dec29 6001/Dec31 6401 Strd swap flex live 395/399
+ALEXANDRE ELBAZ
+13:41:46 SPX mar 6000 7000 RR tied to 6421 66.30/66.90 50d Put Over buyer 200x
+13:42:23 SPX mar 6000 7000 RR tied to 6421 66.40/66.80 50d Put Over buyer 200x
+TOM JARCK
+13:53:25 NDX Dec29 130% Call DP 14.30/15.70
+13:58:27 
+AXWZ7: 80 bid
+AXWZ6: 72 bid
+14:01:01 
+SPX Dec29 6001/Dec31 6401 Strd swap flex live 395/397
+NDX Dec29 130% Call DP 14.30/15.60
+ALEXANDRE ELBAZ
+14:01:27 SPX sep 30th 5500 / dec 31st 4200 ps tied to 6417 1.80/2.00 4dp buyer 300x
+14:17:37 TRADES 1.90 SPX sep 30th 5500 / dec 31st 4200 ps tied to 6417
+TOM JARCK
+14:22:53 NDX Dec29 130% Call DP 14.40/15.40
+14:24:00 
+RTY Dec26 Combo (2266 live) 104.20/104.40
+NDX Dec26 Combo (23466 live) 105.35/105.55
+14:24:55 SPX Sep/Mar 6400 roll 111.70/112.00
+14:46:53 IWM Dec 170 put vs 224.08 6d 2k @ 1.33
+14:51:25  XLF Oct 49 put vs 53.02 18d 2k @ 0.545
+14:55:52 XLF Oct 49 put vs 53.02 18d 2k @ 0.535- 500x placed
+15:12:30 {qt}TRADES SPX Dec29 6001/Dec31 6401 Strd swap flex live @395
+15:19:19  SPX Dec28/Dec29 combo (6411 live) 4.00/4.20
+15:33:27 
+SPX Dec28/Dec29 combo (6411 live) 4.07/4.17
+RTY Dec26 Combo (2266 live) 104.22/104.38
+15:37:35  RTY Dec26 Combo (2266 live) 104.22/104.30
+15:40:19 SPX dec25 box 982.20/982.25
+15:48:24 
+SPX Dec28/Dec29 combo (6411 live) 4.11/4.16
+RTY Dec26 Combo (2266 live) 104.22/104.29
+15:50:24 SPX Dec28/Dec30 80% PS DP 1.75/2.00
+ALEXANDRE ELBAZ
+15:50:36 SPX oct 6050 6450 ps vs dec 5950 6450 ps tied to 6416 18.70/19.00 6dc seller 500x
+TOM JARCK
+15:50:48 SPX sep/dec BOX swap can sell 10.85
+ALEXANDRE ELBAZ
+15:51:30 SPX oct 6050 6450 ps vs dec 5950 6450 ps tied to 6416 18.70/18.90 6dc seller 500x
+TOM JARCK
+15:53:03  SPX Dec28/Dec29 combo (6411 live) 4.11/4.16
+15:54:57 SPX Sep BOX 993.00/993.20 500 x 750
+ALEXANDRE ELBAZ
+15:55:26 TRADES 18.75 SPX oct 6050 6450 ps vs dec 5950 6450 ps tied to 6416
+TOM JARCK
+15:56:55 RTY Dec26 Combo (2266 live) 104.22/104.26
+ALEXANDRE ELBAZ
+16:21:27 {QT} MAGEN SPX LISTED RECAP OF THE DAY 7/28/2025
+
+1000x TRADES 1.40 SPX 11Aug 5400/5850 PS tied to 6429
+400x TRADES 28.50 SPX aug 6400 6500 6600 1x2x1.5 call fly tied to 6427
+250x TRADES 10.20 SPX sep 5200 dec 4500 ps Live
+75x TRADES 185.10 SPX July26 6150/6600/6900 1x1.9x1 Call Fly tied to 6428
+50x TRADES 44.80 SPX Aug6th 6400 Calls tied to 6421
+75x TRADES 27.70 SPX 5aug 6350 p tied to 6425
+50x TRADES 23.05 SPX AugPM 6500 Calls tied to 6420
+180x TRADES 1.75 SPX aug22nd 5960 / 5910 PS tied to 6425
+50x TRADES 296.90 SPX Aug26 6350/6850 CS tied to 6428
+200x TRADES 3.30 SPX Oct PM 5875 / 6100 / 6225 / OCT AM 6350 p condor Live
+50x TRADES 9.20 SPX Sep 6580/6650/6700 Call Fly tied to 6424
+200x TRADES 80.20 SPX July2026 5000 / 5500 / 6300 / 6700 Put Condor vs 6424...
+Tuesday, July 29, 2025
+ALEXANDRE ELBAZ
+08:03:47 GOOD MORNING!
+
+Magen SPX Listed Recap 07-28-25
+
+1000x TRADES 1.40 SPX 11Aug 5400/5850 PS tied to 6429
+400x TRADES 28.50 SPX aug 6400 6500 6600 1x2x1.5 call fly tied to 6427
+250x TRADES 10.20 SPX sep 5200 dec 4500 ps Live
+75x TRADES 185.10 SPX July26 6150/6600/6900 1x1.9x1 Call Fly tied to 6428
+50x TRADES 44.80 SPX Aug6th 6400 Calls tied to 6421
+75x TRADES 27.70 SPX 5aug 6350 p tied to 6425
+50x TRADES 23.05 SPX AugPM 6500 Calls tied to 6420
+180x TRADES 1.75 SPX aug22nd 5960 / 5910 PS tied to 6425
+50x TRADES 296.90 SPX Aug26 6350/6850 CS tied to 6428
+200x TRADES 3.30 SPX Oct PM 5875 / 6100 / 6225 / OCT AM 6350 p condor Live
+50x TRADES 9.20 SPX Sep 6580/6650/6700 Call Fly tied to 6424...
+09:34:28 SPX sep 6550 6700 6925 call tree 0.75x1x1 tied to 6437 21.80/22.30 8dc buyer 300x
+09:35:45 SPX sep 6550 6700 6925 call tree 0.75x1x1 tied to 6437 21.90/22.20 8dc buyer 300x
+TOM JARCK
+09:46:54 SPY Aug29th 600 r/c 2.61/2.71 c+
+
+SPY aug1st 610 rc 0.32/0.39 c+
+09:47:21 Good Morning:
+
+AXWZ9: 96/100 vs  Z6 74
+09:48:24 AXWZ9: 97/100 vs  Z6 74
+ALEXANDRE ELBAZ
+09:49:54 SPX Oct 6000 6500 ps versus dec 5800 6500 ps tied to 6433 29.40/29.80 5dc seller 500x
+09:50:30 SPX Oct 6000 6500 ps versus dec 5800 6500 ps tied to 6433 29.50/29.70 5dc seller 500x
+TOM JARCK
+09:50:49 RTY Dec26 Combo (2273 live) 104.17/104.33
+ALEXANDRE ELBAZ
+09:50:57 SPX Oct 6000 6500 ps versus dec 5800 6500 ps tied to 6433 29.50/29.60 5dc seller 500x
+09:51:30 TRADES 29.50 SPX Oct 6000 6500 ps versus dec 5800 6500 ps tied to 6433
+TOM JARCK
+09:52:29 
+RTY Dec26 Combo (2273 live) 104.17/104.29
+SPX Dec26 Combo (6432 live) 104.65/104.70
+ALEXANDRE ELBAZ
+09:52:45 Can sell more @ 29.50 PS SWAP
+TOM JARCK
+09:56:35 AXWZ0: 105/111
+ALEXANDRE ELBAZ
+09:58:47 SPX Aug4th 6400/6475 1x1.5 CS tied to 6433 25.40/25.70 21d seller 500x
+09:59:29 SPX Aug4th 6400/6475 1x1.5 CS tied to 6433 25.50/25.60 21d seller 500x
+TOM JARCK
+10:00:11 SPX Dec26 Combo (6432 live) 104.66/104.70
+10:01:10 SPX Oct box 989.70/990.05  seller 1k
+ALEXANDRE ELBAZ
+10:05:08 TRADES 25.60 SPX Aug4th 6400/6475 1x1.5 CS tied to 6433
+TOM JARCK
+10:08:17 
+SPX Dec26 Combo (6432 live) 104.665/104.695
+10:12:13 SPX Oct box 989.80/990.05
+ALEXANDRE ELBAZ
+10:13:53 SPX Dec 4800 5700 6075 Put fly Live .40/.60 buyer 750x
+10:16:32 TRADES .50 SPX Dec 4800 5700 6075 Put fly Live
+TOM JARCK
+10:18:29 
+SPX Dec29/Dec31 atm Strd swap DP 13.30/14.50
+SPX Dec30 atm STRD DP 43.80/44.80
+10:19:20 
+AXWZ9: 97.5/100 vs  Z6 74
+ALEXANDRE ELBAZ
+10:21:27 SPX sep 6650 6725 call spread tied to 6430 7d 13.00/13.20 seller 500x
+10:22:38 TRADES 13.10 SPX sep 6650 6725 call spread tied to 6430 7d
+10:26:02 SPX Dec26 4000/2500 1x3 PS Live 4.00/4.40 seller 300x
+TOM JARCK
+10:26:44 
+SPX Dec26/Dec27 Combo (6431 live) 3.11/3.21
+SPX Dec27/Dec28 Combo (6434 live) 3.48/3.64
+ALEXANDRE ELBAZ
+10:28:23 SPX Dec26 4000/2500 1x3 PS Live 4.00/4.30 seller 300x
+TOM JARCK
+10:30:45 AXWZ6 73/76 vs H6 75
+10:35:13 AXWH6 traded 75 vs Z5 56 750x COLOR  (CAN BUY MORE)
+10:35:36 AXWZ31: 111/118
+ALEXANDRE ELBAZ
+10:37:02 SPX Jun27 6800 Put vs 6429 561.00/563.00 46d seller 75x
+10:40:04 SPX Jun27 6800 Put vs 6429 561.00/562.50 46d seller 75x
+10:44:41 SPX Jun27 6800 Put vs 6429 561.25/562.50 46d seller 75x
+TOM JARCK
+10:48:49 
+SPX Dec26/Dec27 Combo (6431 live) 3.12/3.21
+SPX Dec27/Dec28 Combo (6434 live) 3.48/3.62
+10:54:27 
+SPX Dec30 atm STRD DP 44.00/44.70
+SPX Dec29/Dec31 atm Strd swap DP 13.50/14.30
+
+RTY Dec27 2301 Strd Flex vs 2271 562.00/582.00  21dc
+11:03:36 
+AXWZ5: 52.5/58.5 vs U5 55
+11:05:33 AXWZ5: 54/58 vs U5 55
+11:08:59 AXWZ9: 98/99.5 vs  Z6 74
+ALEXANDRE ELBAZ
+11:10:35 SPX oct 6425 5850 5600 Put Fly tied to 6418 86.40/86.70 27d buyer 300x
+11:12:13 SPX oct 6425 5850 5600 Put Fly tied to 6418 86.50/86.70 27d buyer 300x
+TOM JARCK
+11:12:23 
+SPX Dec29/Dec31 atm Strd swap DP 13.60/14.20
+SPX Dec29 6350/5150 PS Flex vs 6422 13d 269/289
+
+RTY Dec27 2301 Strd Flex vs 2271 562.00/582.00  21dc
+ALEXANDRE ELBAZ
+11:14:07 SPX oct 6425 5850 5600 Put Fly tied to 6418 86.50/86.60 27d buyer 300x
+TOM JARCK
+11:16:32 
+AXWZ9: 98/99.5 vs  Z6 74
+AXWZ31: 111/118
+ALEXANDRE ELBAZ
+11:16:56 TRADES 86.50 SPX oct 6425 5850 5600 Put Fly tied to 6418
+TOM JARCK
+11:17:47 SPX Dec26 Var 22.00/22.50
+11:18:35 SPX Dec29/Dec31 atm Strd swap DP 13.70/14.20
+11:20:22 SPX Dec26 Var 22.00/22.40
+11:25:07 RTY Dec27 2301 Strd Flex vs 2271 565.00/582.00  21dc
+ALEXANDRE ELBAZ
+11:27:19 SPX Dec26 4000/2500 1x3 PS Live 4.00/4.20 seller 300x
+TOM JARCK
+11:29:04 RTY Dec27 2301 Strd Flex vs 2271 570.00/582.00  21d
+11:54:39 AXWH6 traded 75 vs Z5 56 2k COLOR (CAN BUY MORE STILL)
+12:05:12  -
+AXWZ9: 98/99.5 vs  Z6 74
+AXWZ0: 105.5/109.5 vs  Z9 99
+AXWZ31: 111/118
+12:05:42 {QT} TRADE 10k XLF Sep 52 rc @0.3425 C+
+ALEXANDRE ELBAZ
+12:08:39 SPX Jun27 6800 Put vs 6429 46d 562.00/563.00 seller 75x
+12:09:37 SPX Jun27 6800 Put vs 6429 46d 562.50/563.00 seller 75x
+TOM JARCK
+12:10:48 SPX Dec27/Dec28 Combo (6434 live) 3.49/3.59
+ALEXANDRE ELBAZ
+12:11:59 TRADES 562.50 SPX Jun27 6800 Put vs 6429 46d
+TOM JARCK
+12:17:23 
+AXWH6 traded 75 vs Z5 56 2k COLOR (CAN BUY MORE STILL)
+AXWZ9: 98/99.5 vs Z6 74
+AXWZ9: /99 offer vs Z8 89
+AXWZ0: 105.5/109 vs Z9 99
+AXWZ31: 111/118
+AXWZ31: /117 vs Z30 107
+12:18:57 
+IWM sep 235 rc 0.80/0.94 c+
+IWM oct 240 rc 1.20/1.41 c+
+
+QQQ sep 540 rc 3.55/3.74 c+
+12:21:23 AXWZ6 73/76 vs H6 75
+12:26:43 SPX Dec31 Combo (6409 live) 124.75/125.15
+12:28:37 SPX Dec28 Combo (6409 live) 111.25/111.60
+12:32:23 RTY Dec26 Combo (2273 live) 104.17/104.28
+ALEXANDRE ELBAZ
+12:42:37 SPX Jun27 5700 7000 strangle vs Dec28 5700 7600 strangle Live  207.00/217.00 buyer 100x
+TOM JARCK
+12:43:10 IWM Sep 225 r/c .90/1.00 c+
+12:43:55 SPX Dec28 Combo (6409 live) 111.30/111.45
+ALEXANDRE ELBAZ
+12:43:56 SPX Jun27 5700 7000 strangle vs Dec28 5700 7600 strangle Live  209.00/215.00 buyer 100x
+12:46:19 SPX Jun27 5700 7000 strangle vs Dec28 5700 7600 strangle Live  210.00/213.00 buyer 100x
+TOM JARCK
+12:54:10 SPX Dec28 Combo (6409 live) 111.25/111.38
+ALEXANDRE ELBAZ
+12:55:00 SPX Jun27 5700 7000 strangle vs Dec28 5700 7600 strangle Live  210.00/212.00 buyer 100x
+13:01:16 SPX Jun27 5700 7000 strangle vs Dec28 5700 7600 strangle Live  210.50/212.00 buyer 100x
+TOM JARCK
+13:01:20 SPX Dec28 Combo (6409 live) 111.27/111.37
+ALEXANDRE ELBAZ
+13:09:46 TRADES 211.00 SPX Jun27 5700 7000 strangle vs Dec28 5700 7600 strangle Live
+TOM JARCK
+13:18:09 
+SPX Dec30 Cash Spread tied 6410 on a 225d AM Flex
+
+5000 put, -3.2x
+6300 call, +1.8x
+7700 call, +1.0x
+11000 call, -1.0x
+20000 call, -1.2x
+
+10x
+
+2.92mm/2.94mm
+ALEXANDRE ELBAZ
+13:21:34 SPX nov/jun 6000 ps tied to 6417 116.20/116.70 5dp buyer 200x
+TOM JARCK
+13:26:11 SPX Dec31 Combo (6409 live) 124.675/125.05
+13:27:32 SPX Dec31 Combo (6409 live) 124.70/125.00
+13:38:43  XLF sep 50 euroflex rc 0.3475/0.3525 c+
+13:40:14 SPX Dec31 Combo (6409 live) 124.70/124.95
+13:44:17 {qt} 2.925mm trades
+
+SPX Dec30 Cash Spread tied 6410 on a 225d AM Flex/Listed
+
+5000.00 put, -32x (Listed)
+6300.00 call, +18x (Listed)
+7700.00 call, +10x (Flex)
+11000.00 call, -10x (Listed)
+20000.00 call, -12x (Flex)
+
+23x Combos
+13:46:04 SPX Dec31 Combo (6409 live) 124.75/124.90
+14:14:19 SPX Dec31 Combo (6409 live) 124.77/124.88
+14:44:17 XLF sep 50 euroflex rc 0.3475/0.35 c+
+ALEXANDRE ELBAZ
+15:12:04 SPX aug1st 6200 6300 6475 put spread collar tied to 6407 5.60/5.80 27d buyer 300x
+TOM JARCK
+15:12:47 NDX Dec28 23400 Straddle Flex vs 23483 39d 7370/7530
+ALEXANDRE ELBAZ
+15:15:05 TRADES 5.75 SPX aug1st 6200 6300 6475 put spread collar tied to 6407
+TOM JARCK
+15:20:53 SPX Mar26 Combo (6406 live) 102.31/102.34
+15:27:28 SPX Mar26 Combo (6406 live) 102.315/102.335
+S LEVIN
+15:28:45 Tom, do you guys have an ability to send me the transcript of this chat at the end of day (daily)? Just so I can scrape the quotes
+TOM JARCK
+15:33:36 and turn off the day's shows?
+15:33:41 or both
+S LEVIN
+15:34:17 Ideally keep both - I mostly care about trades that printed but ideally both
+TOM JARCK
+15:36:38 In what format would you want the daily transcript. I send all the quotes to myself through out the day. I can copy that and paste into email or send it back to you direct in another IB chat.
+15:37:15 SPY jun26 635 euroflex rc 18.20/19.00
+S LEVIN
+15:37:57 Just the transcript of the whole chat will do - I have chatGPT thing built that extracts quotes and trades
+TOM JARCK
+15:38:17 Ok. In email?
+S LEVIN
+15:43:37 Yep, that works - if it's easier, you can just literally use API to auto-mail it to me (IIRC Bloomberg offers that)
+TOM JARCK
+15:44:50 ok
+15:44:57 I will figure it out
+S LEVIN
+15:45:11 Just don't want to add more work for you
+TOM JARCK
+15:45:22 NP
+16:05:36 I did email a sibset from today. I have run out for the day. will set this up as a daily process beginning tomorrow. Not worries! -Tom
+ALEXANDRE ELBAZ
+16:06:22 SPX Oct 5100/4500 1x2 PS Live .45/.70 2over buyer 500x
+16:07:00 SPX Oct 5100/4500 1x2 PS Live .50/.60 2over buyer 500x
+16:08:36 SPX Oct 5100/4500 1x2 PS Live .50/.55 2over buyer 500x
+16:09:08 SPX Oct 5100/4500 1x2 PS Live .50/.55 2over buyer 500x
+16:14:21 TRADES .55 SPX Oct 5100/4500 1x2 PS Live
+16:16:28 {QT} MAGEN SPX LISTED RECAP OF THE DAY 7/29/2025
+
+500x TRADES 68.80 SPX Dec 6000/7150 1x2 RR tied to 6439
+100x TRADES 10.20 SPX Aug PM 5500 / Dec PM 4200 ps 2x1 Live
+800x TRADES 29.50 SPX Oct 6000 6500 ps versus dec 5800 6500 ps tied to 6433
+450x TRADES 25.60 SPX Aug4th 6400/6475 1x1.5 CS tied to 6433
+750x TRADES .50 SPX Dec 4800 5700 6075 Put fly Live
+1000x TRADES 13.10 SPX sep 6650 6725 call spread tied to 6430
+300x TRADES 86.50 SPX oct 6425 5850 5600 Put Fly tied to 6418
+175x TRADES 562.50 SPX Jun27 6800 Put vs 6429
+100x TRADES 83.90 SPX Jun26 5800/4350 1x2 PS tied to 6410
+120x TRADES 62.30 SPX Sep12th 6000p WITH Oct 5900p With Jan 5600p Versus Sep 6200p WITH Jan60...
+Wednesday, July 30, 2025
+ALEXANDRE ELBAZ
+07:50:28 GOOD MORNING!
+
+Magen SPX Listed Recap 07-29-25
+
+500x TRADES 68.80 SPX Dec 6000/7150 1x2 RR tied to 6439
+100x TRADES 10.20 SPX Aug PM 5500 / Dec PM 4200 ps 2x1 Live
+800x TRADES 29.50 SPX Oct 6000 6500 ps versus dec 5800 6500 ps tied to 6433
+450x TRADES 25.60 SPX Aug4th 6400/6475 1x1.5 CS tied to 6433
+750x TRADES .50 SPX Dec 4800 5700 6075 Put fly Live
+1000x TRADES 13.10 SPX sep 6650 6725 call spread tied to 6430
+300x TRADES 86.50 SPX oct 6425 5850 5600 Put Fly tied to 6418
+175x TRADES 562.50 SPX Jun27 6800 Put vs 6429
+100x TRADES 83.90 SPX Jun26 5800/4350 1x2 PS tied to 6410...
+TOM JARCK
+08:20:39 Good morning:
+
+07/29/2025 AIR BTIC RECAP:
+
+AXWQ5 traded 49 250x
+AXWU5 traded 52 250x
+AXWU5 traded 54 250x
+AXWV5 traded 54.5 vs U5 53 2500x
+AXWH6 traded 74.5 1k
+AXWH6 traded 75 vs Z5 56 2000x
+AXWZ6 traded 75 250x
+AXWZ6 traded 75 vs U5 55 600x
+AXWZ6 traded 74 vs Z5 56 250x
+AXWZ6 traded 75 vs Z5 56 750x
+AXWZ6 traded 75 vs H6 75 1k
+AXWZ7 traded 83.5 vs Z5 56 250x
+AXWZ7 traded 82.5 vs Z6 75 250x
+AXWZ8 traded 91 vs U5 54 285x
+AXWZ8 traded 91 vs Z5 56 725x
+AXWZ8 traded 90.5 vs Z6 75 250x...
+09:32:45 
+AXWZ9 97/101 vs Z6 76
+09:33:55 AXWH6 73/78 vs Z5 55
+

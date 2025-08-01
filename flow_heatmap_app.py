@@ -1,14 +1,13 @@
-```File input: Pick (upload) the daily deduped JSON.
+'''File input: Pick (upload) the daily deduped JSON.
 Ticker selector: Choose which ticker to visualize (from those in the file).
 Trade filter: Maybe radio buttons/dropdowns for:
 Calls bought
 Puts sold
 (maybe future: “all calls bought or puts sold”)
-Heatmap plot: X = expiry, Y = strike, Cell = sum(size) (or count, but size preferred).```
+Heatmap plot: X = expiry, Y = strike, Cell = sum(size) (or count, but size preferred).'''
 
-#data file expectation:
-```[
-  {
+#data file expectation```[
+'''  {
     "ticker": "SPY",
     "type": "call",
     "direction": "buy",
@@ -17,7 +16,7 @@ Heatmap plot: X = expiry, Y = strike, Cell = sum(size) (or count, but size prefe
     "size": 100,
     ...
   }
-]```
+]'''
 
 # Need to check the LLM outputs here first
 
@@ -32,7 +31,7 @@ import streamlit as st
 import pandas as pd
 import os
 import glob
-
+import json
 # --- Step 1: Find latest deduped file in the given folder ---
 
 @st.cache_data
@@ -56,7 +55,13 @@ st.success(f"Loaded latest deduped file: {os.path.basename(latest_file)}")
 
 @st.cache_data
 def load_data(path):
-    df = pd.read_json(path)
+    with open(path) as f:
+        raw = json.load(f)
+        # filter out None/null entries (if LLM output has many nulls)
+        filtered = [x for x in raw if x is not None]
+        # (Optional: filter again if any items are not dict)
+        filtered = [x for x in filtered if isinstance(x, dict)]
+    df = pd.DataFrame(filtered)
     return df
 
 df = load_data(latest_file)

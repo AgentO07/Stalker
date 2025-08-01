@@ -1,4 +1,13 @@
+On To DO List:
 
+Okay, starting with a heatmap or FLow Matrix for each ticker:
+2D grid with 
+X: expiry 
+Y: strike
+Cells: Total size of contracts or color coding directions ( bull/bear, let's see )
+
+
+Interactive dashboard to pick any ticker and filter shit
 ---
 
 ## 📚 Table of Contents

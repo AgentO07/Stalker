@@ -13,13 +13,12 @@
     - [Step 4: Deduplication of Trades](#step-4-deduplication-of-trades)
     - [Step 5: Dashboard & Analytics (Streamlit)](#step-5-dashboard--analytics-streamlit)
 5. [Design Notes](#design-notes)
-6. [FAQ / Customization](#faq--customization)
 
 ---
 
 ## What is this?
 
-**A pipeline for option/ETF trade flow transcripts** (from brokers) that:
+**A pipeline for ETF trade flow transcripts** (from brokers) that:
 
 - **Parses raw text files** (chat logs, emails, etc.)
 - **Optionally normalizes and tags instruments**
@@ -27,7 +26,6 @@
 - **Deduplicates “echoed” trades across brokers**
 - **Lets you analyze and visualize the day’s unique trades without a complex database**
 
-> Built for quant/PM flow desks, but easily modifiable for any broker transcript use-case.
 
 ---
 
@@ -83,7 +81,7 @@ Install everything at once:
 
 How to Use
 Step 1: Ingest & Structure
-Place all daily txt transcripts in /transcripts/ (named, e.g., citadel_20240731.txt).
+Place all daily txt transcripts in /transcripts/ (named, e.g., _20240731.txt).
 
 Run:
 

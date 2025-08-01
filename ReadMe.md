@@ -58,6 +58,8 @@ step2_optional_preprocessing.py
 
 step3_llm_parser.py # additional LLM_Batching (not needed for now).py
 
+okay apparently, it is very much needed for now, gpt is fuckking crying
+
 step4_duplication_removal.py
 
 dashboard_app.py      # (later)

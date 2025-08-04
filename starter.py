@@ -2,43 +2,69 @@ import re
 import os
 import json
 
-def ingest_and_structure(input_path, output_path):
+TS_REGEX = re.compile(
+    r'^(?P<ts>\d{2}:\d{2}(?::\d{2}(?:\.\d{1,6})?)?)\s*(?P<body>.*)'
+)
+
+def ingest_and_structure(input_path: str | pathlib.Path,
+                         output_path: str | pathlib.Path) -> list[dict]:
     """
-    Convert a raw transcript text file into a structured JSON list (timestamp/message per block).
+    Parse a broker transcript into
+        {
+          "broker": "BRIAN CONNORS",
+          "messages": [
+              {"timestamp": "...", "text": "..."},
+              ...
+          ]
+        }
+    and dump as JSON.
     """
-    with open(input_path, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+    input_path = pathlib.Path(input_path)
+    output_path = pathlib.Path(output_path)
 
-    timestamped_msgs = []
-    curr_message = {"timestamp": None, "raw_text": ""}
-    timestamp_re = re.compile(r'^(\d{2}:\d{2}:\d{2})')
+    with input_path.open(encoding='utf-8', errors='replace') as fh:
+        lines = fh.readlines()
 
-    for line in lines:
-        stripped = line.strip()
-        if not stripped:
-            curr_message["raw_text"] += '\n'
-            continue
+    # --- 1. broker / header --------------------------------------------------
+    broker = lines[0].strip()           # first line = broker name
+    start_idx = 1                       # start looking for timestamps here
 
-        match = timestamp_re.match(stripped)
-        if match:
-            if curr_message["raw_text"].strip() != "" or curr_message["timestamp"] is not None:
-                timestamped_msgs.append(curr_message)
-            curr_message = {
-                "timestamp": match.group(1),
-                "raw_text": stripped[len(match.group(1)):].strip()
+    # If the first line is NOT a timestamp but NOT a name either
+    # (e.g. "*** CHAT STARTED ***"), advance until we hit a timestamp.
+    if TS_REGEX.match(broker):
+        # actually the file has no broker name, rewind
+        broker = None
+        start_idx = 0
+
+    # --- 2. iterate ----------------------------------------------------------
+    messages, curr = [], {"timestamp": None, "text": ""}
+
+    for raw in lines[start_idx:]:
+        line = raw.rstrip('\n')
+        m = TS_REGEX.match(line)
+
+        if m:  # new message starts ------------------------------------------
+            if curr["timestamp"] is not None or curr["text"].strip():
+                messages.append(curr)
+            curr = {
+                "timestamp": m.group('ts'),
+                "text": m.group('body').rstrip()
             }
-        else:
-            if curr_message["raw_text"]:
-                curr_message["raw_text"] += "\n"
-            curr_message["raw_text"] += stripped
+        else:  # continuation line -------------------------------------------
+            if curr["text"]:
+                curr["text"] += '\n'
+            curr["text"] += line
 
-    if curr_message["raw_text"].strip() != "" or curr_message["timestamp"] is not None:
-        timestamped_msgs.append(curr_message)
+    if curr["timestamp"] is not None or curr["text"].strip():
+        messages.append(curr)
 
-    with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(timestamped_msgs, f, indent=2, ensure_ascii=False)
+    # --- 3. dump -------------------------------------------------------------
+    wrapper = {"broker": broker, "messages": messages}
+    output_path.write_text(json.dumps(wrapper, indent=2, ensure_ascii=False),
+                           encoding='utf-8')
+    print(f"{input_path.name:>35}  →  {len(messages):3d} msgs")
 
-    print(f"Processed {input_path} with {len(timestamped_msgs)} messages.")
+    return wrapper
 
 def batch_ingest_transcripts(input_folder, output_folder):
     """

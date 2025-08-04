@@ -1,71 +1,76 @@
-import json
-import os
-import re
+from __future__ import annotations
+import json, pathlib, re, unicodedata
+from typing import List, Dict
 
-# Add or modify to match your focus universe
-TICKERS = ['SPY','QQQ','IWM','VIX','FXI','SPX','NDX','RTY','AAPL','TSLA','NVDA','AMZN','AMD','GOOG','GOOGL','AVGO','BAC','ASHR','TSLA','GLD','IBIT','USO','CVNA','EM','EEM','KWEB','RKT','ORCL','BA','MSFT','APLD','QUBT','RGTI','META','NVTS','CRWV','GME','RH','ADBE','MOS','JOBY','PEP','B'] # Expand as you like
+# 1)  universe of tickers you care about  -------------------------------
+TICKERS = [
+    'SPY','QQQ','IWM','VIX','FXI','SPX','NDX','RTY',
+    'AAPL','TSLA','NVDA','AMZN','AMD'
+]
 
-def clean_text(text):
-    """
-    Normalize and tidy the message text.
-    1. Convert to uppercase.
-    2. Remove excessive spaces.
-    3. Remove junk punctuation except for those commonly used in trade notation.
-    """
-    # Convert to uppercase for standardization and easier matching
-    text = text.upper()
-    # Remove extra whitespace
-    text = re.sub(r'\s+', ' ', text)
-    # Optionally strip unwanted punctuation (here we keep . / % - $ , +)
-    # Uncomment this line if you want a more strict cleaning: 
-    # text = re.sub(r'[^\w\s\.\,\-\/\%\+\$]', '', text)
-    return text.strip()
+# Build a single case-insensitive regex:
+# … match TICKER when it is not glued to other letters / digits (handles “.SPX” too)
+_ticker_regex = re.compile(
+    r'(?<![A-Z0-9.])(' + '|'.join(map(re.escape, TICKERS)) + r')(?![A-Z0-9])',
+    flags=re.IGNORECASE
+)
 
-def tag_ticker(text):
-    """
-    Find the first matching ticker in the clean text.
-    Returns the ticker (as appears in TICKERS) or None if not found.
-    """
-    for ticker in TICKERS:
-        # Look for the ticker as a word or as a word boundary (to avoid partial matches)
-        if re.search(rf'\b{re.escape(ticker)}\b', text):
-            return ticker
-    return None
+# 2)  helpers  ----------------------------------------------------------
+def clean_text(txt: str) -> str:
+    """Unicode-normalise, kill weird spaces, collapse runs of spaces/tabs."""
+    txt = unicodedata.normalize("NFKC", txt).replace('\u00A0', ' ')
+    txt = '\n'.join(re.sub(r'[ \t]+', ' ', line) for line in txt.splitlines())
+    return txt.strip()
 
-def preprocess_structured_json(input_path, output_path):
+def find_tickers(txt: str) -> List[str]:
+    """Return unique tickers (uppercase) that appear in txt."""
+    return sorted({m.group(1).upper() for m in _ticker_regex.finditer(txt)})
+
+# 3)  core routine  -----------------------------------------------------
+def preprocess_file(in_path: pathlib.Path, out_path: pathlib.Path) -> None:
     """
-    Loads structured step-1 JSON; adds 'clean_text' and 'ticker' to each message.
-    Outputs to output_path.
+    Read one *_structured.json file, keep only tagged messages,
+    enrich them, and dump a flat list of dicts.
     """
-    with open(input_path, 'r', encoding='utf-8') as f:
-        messages = json.load(f)
-    
+    # --- load ----------------------------------------------------------
+    data = json.loads(in_path.read_text(encoding='utf-8'))
+
+    # the step-1 output may be either a wrapper {"messages":[…]} or a flat list
+    messages: List[Dict] = data['messages'] if isinstance(data, dict) else data
+
+    # --- enrich & filter ----------------------------------------------
+    kept: List[Dict] = []
     for msg in messages:
-        cln = clean_text(msg['raw_text'])
-        tick = tag_ticker(cln)
-        msg['clean_text'] = cln
-        msg['ticker'] = tick
+        raw = msg.get('raw_text') or msg.get('text', '')
+        cln = clean_text(raw)
+        tags = find_tickers(cln)
+        if not tags:                         # DROP messages w/o focus tickers
+            continue
 
-    with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(messages, f, indent=2, ensure_ascii=False)
+        new_msg = dict(msg)                  # shallow copy so we don’t mutate
+        new_msg['clean_text'] = cln
+        new_msg['tickers']    = tags         # plural list
+        kept.append(new_msg)
 
-    print(f"Preprocessed {input_path} -> {output_path} ({len(messages)} messages)")
+    # --- dump ----------------------------------------------------------
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(json.dumps(kept, indent=2, ensure_ascii=False),
+                        encoding='utf-8')
+    print(f"{in_path.name:>35}  →  {len(kept):3d} msgs kept")
 
-def batch_preprocess_structured(input_folder, output_folder):
-    """
-    For all *_structured.json files in input_folder, create preproc jsons in output_folder.
-    """
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
-    
-    input_files = [f for f in os.listdir(input_folder) if f.endswith('_structured.json')]
-    print(f"Found {len(input_files)} structured transcript files for preprocessing.")
-    for fname in input_files:
-        input_path = os.path.join(input_folder, fname)
-        base_name = fname.replace('_structured.json', '') # Strip off _structured.json
-        output_path = os.path.join(output_folder, f"{base_name}_preproc.json")
-        preprocess_structured_json(input_path, output_path)
+# 4)  batch driver  -----------------------------------------------------
+def batch_preprocess(input_dir: str, output_dir: str):
+    in_dir  = pathlib.Path(input_dir)
+    out_dir = pathlib.Path(output_dir).resolve()
+    out_dir.mkdir(parents=True, exist_ok=True)
 
-# Example usage
-if __name__ == "__main__":
-    batch_preprocess_structured('./structured', './preprocessed')
+    files = sorted(in_dir.glob('*_structured.json'))
+    print(f"Found {len(files)} structured files.")
+
+    for fp in files:
+        out_fp = out_dir / fp.name.replace('_structured.json', '_preproc.json')
+        preprocess_file(fp, out_fp)
+
+# ----------------------------------------------------------------------
+if __name__ == '__main__':
+    batch_preprocess('./structured', './preprocessed')
